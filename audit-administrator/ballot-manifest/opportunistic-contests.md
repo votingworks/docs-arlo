@@ -1,0 +1,3 @@
+# Opportunistic Contests
+
+An opportunistic contest is any other contest on the ballot the audit administrator would like to include. Some jurisdictions may choose to include each additional contest on the ballot while others may choose not to audit any additional contests. It’s important to note that an opportunistic contest with a lower margin of victory from the targeted contests is not likely to meet the risk limit with the targeted contest’s ballot retrieval sample size. Setup for opportunistic contests is exactly the same as targeted contests, [see instructions above](target-contests.md).
