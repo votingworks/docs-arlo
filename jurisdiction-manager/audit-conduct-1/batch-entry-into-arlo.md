@@ -10,9 +10,11 @@ The tallies for each batch selected for audit must be entered into Arlo to concl
 
 {% tabs %}
 {% tab title="Batch Comparison" %}
-![](https://lh3.googleusercontent.com/a5-sDi55MMJtS1KH1m9wAtd0z2raFN-KC9gVOxgbenIMzzlQlOHfYcgSA8fFhj0dGILTQ5BPKt\_tGmiLK8xSanmkn0rFH5cSM3HTbPIQUq1a3D0OUWAMx-OoAURP3lPJ8cXWMqsi)
+![](<../../.gitbook/assets/image (74).png>)
 
-Enter the votes for each candidate for each batch and click Submit Data for Round 1 when complete.
+
+
+To enter the candidate totals for a batch, click Edit in the Actions column of the batch row.  Enter the candidate totals and click Save.  Once all batches have been entered, click Finalize Results.
 {% endtab %}
 
 {% tab title="Full Hand Tally" %}
