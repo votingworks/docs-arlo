@@ -46,4 +46,8 @@ Once you count to the ballot number on your retrieval list, pull the ballot out 
 
 If more than one ballot is needed from the batch, keep counting until you have retrieved all of the ballots. Always double check the batch name with the retrieval list to ensure it is the same container.
 
+{% hint style="info" %}
+When a duplicated ballot is retrieved, the original ballot should also be retrieved and used in the tally process.
+{% endhint %}
+
 Once the ballots have been retrieved from a container, reseal the container (keeping the ballots selected out) and complete any required chain of custody documentation.

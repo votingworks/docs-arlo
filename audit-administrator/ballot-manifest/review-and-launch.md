@@ -45,9 +45,15 @@ For a batch comparison audit, Arlo will display the sample size in number of bat
 {% endtabs %}
 
 {% hint style="warning" %}
-When the margin of the contest being audited is close and over 25% of the ballots are required to be sampled, Arlo will automatically revert to a full hand tally and your sample size will be reflected as all ballots.
+When the margin of the contest being audited is close and over 25% of the ballots are required to be sampled, Arlo will warn you when a full hand tally is necessary.&#x20;
 
-&#x20;![](<../../.gitbook/assets/image (24).png>)&#x20;
+
+
+![](<../../.gitbook/assets/image (73).png>)
+
+&#x20;
+
+**Note:** a full hand tally can only be completed on one contest and as a ballot polling or batch comparison audit.  If auditing multiple targeted contests, remove either the contest(s) requiring a full hand tally or the contest(s) not requiring a full hand tally to proceed. Start a new ballot polling audit to complete a full hand tally for ballot comparison or hybrid audits.&#x20;
 
 &#x20;
 {% endhint %}
