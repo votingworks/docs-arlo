@@ -4,12 +4,13 @@ After all setup screens are completed and all jurisdictions have uploaded their 
 
 First, take a moment to review all of the audit settings for accuracy.  Arlo provides all of the details for final review.
 
-![](https://lh4.googleusercontent.com/LWsZxt32ppZk4rcOoKyg0gGU-L81RLwjuIVAKY61y0IbyUqDPli7DcNMEzvm1BzsLnfCiZUNOnaRMGg5JqVJCSkDG0lGxmRi9cpfYDSqHSboef2H5bkmPX13x0vbSYJ-jsYvzYQO)
+![](<../../.gitbook/assets/image (75).png>)
 
 {% hint style="warning" %}
-**Note**: For **ballot comparison** and **hybrid** audits, some contest names in the CVR files may not match the standardized contest names. To match contest names to the CVR files, simply click on Standardize Contest Names.\
-\
-&#x20;![](<../../.gitbook/assets/image (60).png>)&#x20;
+**Note**: For **ballot comparison** and **hybrid** audits, some contest names in the CVR files may not match the standardized contest names. To match contest names to the CVR files, simply click on Standardize Contest Names.
+
+![](<../../.gitbook/assets/image (72).png>)\
+
 
 And match the contests not found with the contest name in the CVR file.
 

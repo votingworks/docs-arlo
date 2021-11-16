@@ -27,7 +27,7 @@ Using the audit board credentials provided, the audit board enters ballots into 
 
 There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Selections the batch name and ballot number of the ballot being audited is listed. If the ballot has not been retrieved, use the “Ballot Not Found” button. Use the “All Ballots” button to return to the full list of ballots selected for audit.
 
-![](<../.gitbook/assets/image (75) (1).png>)
+![](<../.gitbook/assets/image (75) (1) (1).png>)
 
 1. Select the candidate(s) marked on the ballot. Both audit board members should agree. Then click Review.  \
    \
@@ -38,7 +38,7 @@ There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Sel
    \
    If the audit board cannot agree - explain in the Add Note box.
 
-![](<../.gitbook/assets/image (72) (1).png>)
+![](<../.gitbook/assets/image (72) (1) (1).png>)
 
 2\.  On the verification screen, review the ballot information for accuracy and click Submit & Next Ballot.
 

@@ -10,7 +10,7 @@ The tallies for each batch selected for audit must be entered into Arlo to concl
 
 {% tabs %}
 {% tab title="Batch Comparison" %}
-![](<../../.gitbook/assets/image (74) (1).png>)
+![](<../../.gitbook/assets/image (74) (1) (1).png>)
 
 
 
