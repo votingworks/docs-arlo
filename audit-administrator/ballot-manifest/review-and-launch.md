@@ -4,12 +4,12 @@ After all setup screens are completed and all jurisdictions have uploaded their 
 
 First, take a moment to review all of the audit settings for accuracy.  Arlo provides all of the details for final review.
 
-![](<../../.gitbook/assets/image (75).png>)
+![](<../../.gitbook/assets/image (73).png>)
 
 {% hint style="warning" %}
 **Note**: For **ballot comparison** and **hybrid** audits, some contest names in the CVR files may not match the standardized contest names. To match contest names to the CVR files, simply click on Standardize Contest Names.
 
-![](<../../.gitbook/assets/image (72).png>)\
+![](<../../.gitbook/assets/image (72) (1).png>)\
 
 
 And match the contests not found with the contest name in the CVR file.
@@ -35,7 +35,7 @@ For ballot polling audits, the BRAVO (Ballot-polling Risk-limiting Audits to Ver
 {% tab title="Hybrid" %}
 For a hybrid audit, Arlo will display the number of ballots in the sample that have CVRs and are subject to the ballot comparison math and the number of ballots without CVRs and subject to the ballot polling math.
 
-![](<../../.gitbook/assets/image (20).png>)
+![](<../../.gitbook/assets/image (77).png>)
 {% endtab %}
 
 {% tab title="Batch Comparison" %}
@@ -46,11 +46,11 @@ For a batch comparison audit, Arlo will display the sample size in number of bat
 {% endtabs %}
 
 {% hint style="warning" %}
-When the margin of the contest being audited is close and over 25% of the ballots are required to be sampled, Arlo will warn you when a full hand tally is necessary.&#x20;
+When the margin of the contest being audited is close, Arlo may warn you that a full hand tally is necessary.
 
 
 
-![](<../../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (73) (1).png>)
 
 &#x20;
 

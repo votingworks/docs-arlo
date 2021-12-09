@@ -5,7 +5,7 @@ In the final audit settings, select your state and enter the Election Name, desi
 ![](<../../.gitbook/assets/image (41).png>)
 
 {% hint style="warning" %}
-**Note: **for ballot polling audits, you'll also select how the audit boards will enter data.&#x20;
+**Note:** for ballot polling audits, you'll also select how the audit boards will enter data.&#x20;
 
 **Online** -  audit boards enter the marks of each ballot using an internet connected device. (Recommended)
 

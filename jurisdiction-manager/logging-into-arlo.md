@@ -17,7 +17,7 @@ To login to Arlo:
 
 ![](<../.gitbook/assets/image (70).png>)
 
-4\.  Check your email for a new email with a subject “Welcome to Arlo - Use the Code in this Email to Log In” - enter the verification code. _**This email comes from **_[_**rla@vx.support **_](mailto:rla@vx.support)_**be sure to add this email address to your contacts, safe sender or whitelist.**_
+4\.  Check your email for a new email with a subject “Welcome to Arlo - Use the Code in this Email to Log In” - enter the verification code. _**This email comes from**_ [_**rla@vx.support**_ ](mailto:rla@vx.support)_**be sure to add this email address to your contacts, safe sender or whitelist.**_
 
 ![](https://lh4.googleusercontent.com/D5neWVCWcYJad45Q32lBybm\_IIJmXMDmRr3e6y-NXK-2nj70pPRdUEErjqSGgDpKxrkHxDmIfz6RzNZFNl4Sy3mUSs5CUpf9jrw\_WuURF3QdHCnsUrSvK7N8m8ifYkOTMx4tsrDF)
 

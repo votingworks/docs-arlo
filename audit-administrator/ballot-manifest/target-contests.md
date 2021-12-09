@@ -4,14 +4,18 @@ The target contests are the required contests to be audited.  Target contests wi
 
 {% tabs %}
 {% tab title="Ballot Polling/Batch Comparison/Hybrid" %}
-For each targeted contest, you’ll enter the contest name, number of winners, number of votes allowed, the name and votes for each candidate, and total number of ballots cast.
+For each targeted contest, you’ll enter the contest name, number of winners, number of votes allowed, the name and votes for each candidate, and total number of ballots cast. \
+\
+Write-in candidates should also be included if any were awarded votes. Generally only a single "Write-In Candidate" category is needed.\
+\
+The total number of ballots cast should be the total number of ballots in your ballot manifest, even ballots that do not contain the contest.
 
 ![](<../../.gitbook/assets/image (19).png>)
 
 If a contest has more than two choices, click Add a new candidate/choice to add more lines.
 
 {% hint style="warning" %}
-**Note: **for **hybrid** audits, the Contest Name field will be a drop down menu populated from the standardized contest file. Names of Candidates/Choice must match the standardized contest file.
+**Note:** for **hybrid** audits, the Contest Name field will be a drop down menu populated from the standardized contest file. Names of Candidates/Choice must match the standardized contest file.
 
 For **batch comparison** audits, the Names of Candidates/Choices will drive the required candidate headers in the contest totals by batch file. The [candidate totals by batch file'](../../jurisdiction-manager/pre-audit-file-uploads/candidate-totals-by-batch.md)s headers must match the candidate names entered at this step.
 {% endhint %}

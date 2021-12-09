@@ -26,7 +26,7 @@ Depending on the number of contests being audited, jurisdictions may use a varie
 
 For each ballot: one audit board member picks up a single ballot from the stack and reads the vote for the contest being audited aloud, then hands the ballot to the second audit board member.  The second audit board member verifies the vote that is on the ballot is indeed what the first audit board member read, then places the ballot in the “stack” that corresponds to the vote. The first audit board member should watch to make sure the ballot is placed in the right stack. A stack should be created for each contest choice (including write-in), overvoted ballots, blank/undervoted ballots, duplicated ballots, and ballots where the audit board cannot agree on the voter’s intent.
 
-**Count the Stacks **
+**Count the Stacks**&#x20;
 
 Count the ballots in each stack by having one member of the audit board verbally count the ballot while handing it to the other member for verification. Count the ballots in groups of 10, stacking the groups at right angles to each other, so you can easily count the complete groups when you are done. (For instance, if you have seven groups of 10 ballots each plus an extra 3 ballots, the total tally would be 73.) Record the total tally for each candidate on the Audit Board Batch Sheet.
 
@@ -65,11 +65,11 @@ When all ballots are tallied, total the tally marks and complete the Audit Board
 
 Some ballots may need special attention. The following ballot types may need special review. Depending on the audit, these steps may be performed by the audit board or a special review team.
 
-**Duplicated ballots - **ballots that were hand duplicated require the retrieval of  the original ballot. Use the original ballot to determine the vote cast by the voter in the contest being audited.
+**Duplicated ballots -** ballots that were hand duplicated require the retrieval of  the original ballot. Use the original ballot to determine the vote cast by the voter in the contest being audited.
 
-**Write-In ballots - **in states where write-in ballots are required to be qualified, write-in ballots should be compared to the list of qualified write-in candidates  and tallied if deemed qualified according to state rule or law.&#x20;
+**Write-In ballots -** in states where write-in ballots are required to be qualified, write-in ballots should be compared to the list of qualified write-in candidates  and tallied if deemed qualified according to state rule or law.&#x20;
 
-**Undetermined ballots - **if an audit board can not agree on the voter’s mark(s), an additional person or designated team could help break a tie. If a determination is not made, a remark can be made in Arlo to explain.&#x20;
+**Undetermined ballots -** if an audit board can not agree on the voter’s mark(s), an additional person or designated team could help break a tie. If a determination is not made, a remark can be made in Arlo to explain.&#x20;
 
 ### **Final Steps**
 

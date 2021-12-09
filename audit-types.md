@@ -8,7 +8,7 @@ Consists of the retrieval of randomly selected ballots to confirm the outcome of
 
 ### **Batch Comparison**
 
-Consists of the retrieval of randomly selected batches of ballots. A batch may consist of all the ballots cast in a precinct, on a specific ballot scanner, or smaller tabulated batches. Those batches are hand tallied and counts are compared to the reported results, batch by batch, to confirm the outcome of the election.  Requires vote counts by batch.** **
+Consists of the retrieval of randomly selected batches of ballots. A batch may consist of all the ballots cast in a precinct, on a specific ballot scanner, or smaller tabulated batches. Those batches are hand tallied and counts are compared to the reported results, batch by batch, to confirm the outcome of the election.  Requires vote counts by batch. ****&#x20;
 
 ### **Ballot Comparison**
 
@@ -20,7 +20,7 @@ Combination of ballot polling & ballot comparison types. If some of a state’s 
 
 ### **Full Manual Tally**
 
-In some cases, an RLA may result in a full manual tally of all ballots.  This may occur when the margin of the contest being audited is so close that the number of ballots to be audited is high and a full manual tally would be more efficient or when the result**s** of multiple rounds detect anomalies in the results and require a full manual tally to confirm the outcome.&#x20;
+In some cases, an RLA may result in a full manual tally of all ballots.  This may occur when the margin of the contest being audited is so close that the number of ballots to be audited is high and a full manual tally would be more efficient or when the results of multiple rounds detect anomalies in the results and require a full manual tally to confirm the outcome.&#x20;
 
 
 

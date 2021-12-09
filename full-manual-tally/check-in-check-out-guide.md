@@ -20,7 +20,7 @@ When an audit board indicates it has completed their tasks, the check-in/out sta
 * enter the candidate totals for the batch into Arlo and mark the batch sheet as “entered”
 
 {% hint style="warning" %}
-Do not enter the write-in candidates from the _Audit Board Batch Sheet_. Only enter from the _Vote Review Panel Tally Sheet.  _
+Do not enter the write-in candidates from the _Audit Board Batch Sheet_. Only enter from the _Vote Review Panel Tally Sheet._ &#x20;
 {% endhint %}
 
 ## Arlo Data Entry

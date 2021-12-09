@@ -6,15 +6,15 @@ Once the participant list is uploaded, the audit admin can monitor the file uplo
 
 **Status:**\
 ****\
-**0/2 files uploaded - **jurisdiction has not logged in to Arlo and uploaded either file.\
-**1/2 files uploaded - **jurisdiction has only uploaded the ballot manifest.
+**0/2 files uploaded -** jurisdiction has not logged in to Arlo and uploaded either file.\
+**1/2 files uploaded -** jurisdiction has only uploaded the ballot manifest.
 
 {% hint style="warning" %}
-**Note: **for ballot polling, only the ballot manifest upload is required.
+**Note:** for ballot polling, only the ballot manifest upload is required.
 {% endhint %}
 
-**2/2 files uploaded - **jurisdiction has successfully uploaded their audit files.\
-**Upload failed - **jurisdiction has attempted to upload one or more of the files but an error was found.
+**2/2 files uploaded -** jurisdiction has successfully uploaded their audit files.\
+**Upload failed -** jurisdiction has attempted to upload one or more of the files but an error was found.
 
 To review the files, click on the Jurisdiction Name.  Then click on the file name next to Upload Failed.
 

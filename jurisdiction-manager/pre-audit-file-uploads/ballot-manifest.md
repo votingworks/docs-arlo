@@ -4,7 +4,7 @@ A key step in the risk-limiting audit process is building a ballot manifest. A b
 
 The ballot manifest is used by Arlo to build a list of every ballot in the election. Arlo takes the list of containers and number of ballots and creates a spreadsheet with a line for each ballot and the container that it is in. Later in the process, Arlo uses the list to randomly select ballots and tell the person auditing the ballots where to find each ballot selected.  &#x20;
 
-### **Create a Ballot Manifest **
+### **Create a Ballot Manifest**&#x20;
 
 Creating a ballot manifest is slightly different [depending on the type of RLA](../../audit-types.md) you are conducting.  Use the tabs below to navigate to the correct instructions for your audit type.
 

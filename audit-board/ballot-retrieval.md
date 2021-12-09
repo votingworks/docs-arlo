@@ -39,7 +39,7 @@ Next refer back to the Ballot Number column of your retrieval list for the ballo
 ![](<../.gitbook/assets/image (42).png>)
 
 {% hint style="warning" %}
-**Note: **for ballot comparison audits verify the imprint ID on the retrieval list with the ballot when applicable.
+**Note:** for ballot comparison audits verify the imprint ID on the retrieval list with the ballot when applicable.
 {% endhint %}
 
 Once you count to the ballot number on your retrieval list, pull the ballot out of the stack, place a colored sheet of paper in the ballot's place to serve as a placeholder, and stick a removable label on to the ballot. The placeholder and label can be generated from Arlo, but if they are not, use blank stock and write the batch name and ballot number on each. Put the retrieved ballot to the side until all ballots have been retrieved.

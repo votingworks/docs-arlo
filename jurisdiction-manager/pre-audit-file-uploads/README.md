@@ -20,7 +20,7 @@ description: >-
 [ballot-manifest.md](ballot-manifest.md)
 {% endcontent-ref %}
 
-### **Cast Vote Record Preparation **
+### **Cast Vote Record Preparation**&#x20;
 
 For ballot comparison and hybrid audits only.
 
