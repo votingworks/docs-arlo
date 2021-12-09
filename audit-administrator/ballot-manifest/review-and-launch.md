@@ -4,7 +4,7 @@ After all setup screens are completed and all jurisdictions have uploaded their 
 
 First, take a moment to review all of the audit settings for accuracy.  Arlo provides all of the details for final review.
 
-![](<../../.gitbook/assets/image (73).png>)
+![](<../../.gitbook/assets/image (73) (1).png>)
 
 {% hint style="warning" %}
 **Note**: For **ballot comparison** and **hybrid** audits, some contest names in the CVR files may not match the standardized contest names. To match contest names to the CVR files, simply click on Standardize Contest Names.
@@ -50,7 +50,7 @@ When the margin of the contest being audited is close, Arlo may warn you that a 
 
 
 
-![](<../../.gitbook/assets/image (73) (1).png>)
+![](<../../.gitbook/assets/image (73) (1) (1).png>)
 
 &#x20;
 

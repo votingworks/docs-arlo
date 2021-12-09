@@ -23,7 +23,7 @@ Using the audit board credentials provided, the audit board enters ballots into 
 
 3\.  Click Audit First Ballot or select a ballot and click Audit Ballot to begin entering ballots.  &#x20;
 
-![](<../.gitbook/assets/image (73) (1) (1).png>)
+![](<../.gitbook/assets/image (73) (1) (1) (1).png>)
 
 #### Ballot Card Data Entry Screen Overview
 
