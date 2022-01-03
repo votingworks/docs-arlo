@@ -35,7 +35,9 @@ As mentioned above, we strongly encourage you to follow the instructions provide
 * ES\&S does not provide a single CVR export with all the data needed for the audit. Instead, two exports are required:&#x20;
   * Tools > Export Cast Vote Record&#x20;
   * Produce Module > Ballots - Table View > set filter to “all” > Export (this file only allows 20K records to be exported at one time and may require several exports depending on your number of ballots)&#x20;
-* Overvotes must be listed as a contest selection and should not be selected as the voter voted&#x20;
+* When setting up the targeted contests for a hybrid audit, “overvote” and “undervote” must each be listed as a contest selection (using the names quoted).&#x20;
+* Audit board members should use the selections overvote and undervote as appropriate and not select multiple candidates for overvotes or blank for undervotes.&#x20;
+* The tabulator ids will be parsed from the CVR using the first four digits of the Tabulator CVR field, including any leading zeros. The tabulator names in the manifest must be four digits and include any leading zeros in order to match.
 
 **Hart:**&#x20;
 

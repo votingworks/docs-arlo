@@ -15,7 +15,7 @@ The total number of ballots cast should be the total number of ballots in your b
 If a contest has more than two choices, click Add a new candidate/choice to add more lines.
 
 {% hint style="warning" %}
-**Note:** for **hybrid** audits, the Contest Name field will be a drop down menu populated from the standardized contest file. Names of Candidates/Choice must match the standardized contest file.
+**Note:** for **hybrid** audits, the Contest Name field will be a drop down menu populated from the standardized contest file. If using ES\&S CVRs, “overvote” and “undervote” must each be listed as a candidate/choice (using the names quoted).&#x20;
 
 For **batch comparison** audits, the Names of Candidates/Choices will drive the required candidate headers in the contest totals by batch file. The [candidate totals by batch file'](../../jurisdiction-manager/pre-audit-file-uploads/candidate-totals-by-batch.md)s headers must match the candidate names entered at this step.
 {% endhint %}
