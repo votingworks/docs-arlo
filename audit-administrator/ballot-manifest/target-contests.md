@@ -8,7 +8,7 @@ For each targeted contest, you’ll enter the contest name, number of winners, n
 \
 Write-in candidates should also be included if any were awarded votes. Generally only a single "Write-In Candidate" category is needed.\
 \
-The total number of ballots cast should be the total number of ballots in your ballot manifest, even ballots that do not contain the contest.
+The total number of ballots cast _**should be the total number of ballots in your ballot manifest**_, even ballots that do not contain the contest.
 
 ![](<../../.gitbook/assets/image (19).png>)
 
