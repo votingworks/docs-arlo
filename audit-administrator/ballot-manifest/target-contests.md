@@ -31,7 +31,7 @@ Click Save & Next when finished.\
 {% endtab %}
 
 {% tab title="Ballot Comparison" %}
-Arlo populates the contests based on the standardized contest file, simply select the contest(s) being targeted from the list.
+Arlo populates the contests based on the standardized contest file. Simply select the contest(s) being targeted from the list.
 
 ![](<../../.gitbook/assets/image (40).png>)
 

@@ -2,6 +2,8 @@
 
 In the final audit settings, select your state and enter the Election Name, designate the desired risk limit and enter the random seed.&#x20;
 
+The risk limit may be designated in state statute or rule. Be sure to verify your state's requirements
+
 ![](<../../.gitbook/assets/image (41).png>)
 
 {% hint style="warning" %}
