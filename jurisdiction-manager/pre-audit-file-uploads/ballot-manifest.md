@@ -31,7 +31,7 @@ Open a spreadsheet program and create a simple spreadsheet with four columns.
 * Column C labeled “Batch Name” is for your tabulator batch name
 * Column D labeled  “Number of Ballots” is where you indicate the number of ballots in each batch
 
-![](https://lh4.googleusercontent.com/gS-5OoDFsSrKDpZehR-IAjIbhBgRCzZJaQ4r9dOsO4q8mvgFvH8d0YiBTlxJWelaknW8agRbo4j\_wncI7PVzqilDI8VZd3z5MwYjcaZTGX4jYDw3LpIi7--xbJr0u3v1DWALRfw5)
+![](<../../.gitbook/assets/image (74).png>)
 
 Enter the data for your county or jurisdiction. When you're finished, take a second to ensure the total number of ballots matches your number of ballots cast.  Then save the file as a .csv file. \
 
@@ -45,6 +45,8 @@ Open a spreadsheet program and create a simple spreadsheet with five columns.
 * Column C labeled “Batch Name” is for your tabulator batch name
 * Column D labeled  “Number of Ballots” is where you indicate the number of ballots in each batch
 * Column E labeled “CVR” is where you indicate Y/N if the batch was centrally counted and is included in your CVR file
+
+![](<../../.gitbook/assets/image (76).png>)
 
 Enter the data for your county or jurisdiction. When you're finished, take a second to ensure the total number of ballots matches your number of ballots cast.  Then save the file as a .csv file.&#x20;
 {% endtab %}
