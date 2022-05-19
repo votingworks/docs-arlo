@@ -28,13 +28,12 @@ For each ballot: one audit board member picks up a single ballot from the stack 
 
 **Count the Stacks**&#x20;
 
-Count the ballots in each stack by having one member of the audit board verbally count the ballot while handing it to the other member for verification. Count the ballots in groups of 10, stacking the groups at right angles to each other, so you can easily count the complete groups when you are done. (For instance, if you have seven groups of 10 ballots each plus an extra 3 ballots, the total tally would be 73.) Record the total tally for each candidate on the Audit Board Batch Sheet.
+Count the ballots in each stack by having one member of the audit board verbally count the ballot while handing it to the other member for verification. Count the ballots in groups of 10, stacking the groups at right angles to each other, so you can easily count the complete groups when you are done. (For instance, if you have seven groups of 10 ballots each plus an extra 3 ballots, the total tally would be 73.) Record the total tally for each candidate on the Audit Board Batch Tally Sheet.\
 
-![Example Audit Board Batch Sheet](<../.gitbook/assets/image (29).png>)
+
+![](https://lh4.googleusercontent.com/RAv\_P3xI4mMEh9zYgetFmaHgLnzWT1mdKfKgIxRtZrBtFtz5N3Es8bzNbj0\_d0oqESZo9dv6GRkjxwFsgwsQ7C4\_zB-0hhNV3\_pi01N249a9pOKh-506BwCEOHxdWcTk0daGXnWkTvQxB\_0oz1I1uw)
 
 {% embed url="https://www.youtube.com/watch?v=U3Vqs2CtQV8" %}
-
-
 {% endtab %}
 
 {% tab title="Read & Mark" %}
@@ -53,13 +52,17 @@ Count the ballots in each stack by having one member of the audit board verbally
 
 Completing this process in groups of 20, 50, 100, or some other set number allows for verification checks throughout the process.  Once the set number is completed, add up the tally marks to ensure the same number was tallied for each contest.
 
-**Complete Audit Board Batch Sheet**
+**Complete Audit Board Batch Tally Sheet**
 
-When all ballots are tallied, total the tally marks and complete the Audit Board Batch Sheet.
+When all ballots are tallied, total the tally marks and complete the Audit Board Batch Tally Sheet.\
+\
 
-![](<../.gitbook/assets/image (43).png>)
+
+![](https://lh4.googleusercontent.com/RAv\_P3xI4mMEh9zYgetFmaHgLnzWT1mdKfKgIxRtZrBtFtz5N3Es8bzNbj0\_d0oqESZo9dv6GRkjxwFsgwsQ7C4\_zB-0hhNV3\_pi01N249a9pOKh-506BwCEOHxdWcTk0daGXnWkTvQxB\_0oz1I1uw)
 {% endtab %}
 {% endtabs %}
+
+
 
 ### **Adjudicating Ballots**
 
@@ -73,4 +76,4 @@ Some ballots may need special attention. The following ballot types may need spe
 
 ### **Final Steps**
 
-Once the batch has been tallied, return all ballots to the container, reseal the container, and complete any chain of custody documentation required. Return the Audit Board Batch Sheet to the Jurisdiction Manager.
+Once the batch has been tallied, return all ballots to the container, reseal the container, and complete any chain of custody documentation required. Return the Audit Board Batch Tally Sheet to the Jurisdiction Manager.

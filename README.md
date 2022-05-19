@@ -6,4 +6,4 @@ Arlo supports ballot polling, batch comparison, ballot comparison, and hybrid RL
 
 {% embed url="https://www.youtube.com/watch?v=yhQNir0rS_s" %}
 
-[RiskLimitingAudits.org](https://risklimitingaudits.org) describes the history and process of conducting an RLA.&#x20;
+[RiskLimitingAudits.org](https://risklimitingaudits.org/) describes the history and process of conducting an RLA.&#x20;

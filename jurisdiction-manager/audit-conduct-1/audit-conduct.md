@@ -10,6 +10,8 @@ Choose the number of audit boards. The audit board setup is used to divide the r
 
 **Download and Print your Audit Materials**
 
+{% tabs %}
+{% tab title="Ballot Polling/Ballot Comparison/Hybrid" %}
 **Ballot retrieval list -** a list of all of the ballots that need to be retrieved in the jurisdiction. This list should be distributed to all audit boards.
 
 **Placeholder sheets -** ready to print placeholder sheets for use in ballot retrieval.  We recommend printing on bright colored paper.
@@ -18,12 +20,21 @@ Choose the number of audit boards. The audit board setup is used to divide the r
 
 **Audit board credentials -** a QR code and url for use by the audit boards to complete the data entry for each ballot pulled. ****&#x20;
 
-![](https://lh5.googleusercontent.com/1KVZTKCKZG44HnzkX5673zCuuxroMDCv\_-zOtRQ4YxgefgpWxHiZsxVmf8arLUEJ\_YrdTfniBaw2puEvqp3H90etJqH9np-8-Lc34fYSZspgrfz3I5B5PS6G3RpvS-AwIEVcZguq)
+![](<../../.gitbook/assets/image (82).png>)
+{% endtab %}
+
+{% tab title="Batch Comparison" %}
+**Batch retrieval list -** a list of all of the batches that need to be retrieved in the jurisdiction. This list should be distributed to all audit boards.
+
+**Batch tally sheets -** ready to print batch tally sheets for use in recording batch tallies.  \
+
+
+![](https://lh6.googleusercontent.com/sHBy8qCA5ITVd2im8SARlTu6qQctxBKb6kUgWpXGo7y-xIiPXBSHccGNp9ch46VttfUbDoqBOWVFEfeVSRquJ0RErwup3HMmz4e2kGldDoxEAN7S1x8URLTJHyjxn0Mhg9GdQa2qFiUf77Zsu16fSw)
+{% endtab %}
+{% endtabs %}
 
 {% hint style="warning" %}
-**Note:** for batch comparison audits, the only download will be a batch retrieval list, listing all of the batches that need to be retrieved in the jurisdiction.
-
-For full hand tally, there are no materials to download.
+**Note:** For full hand tally, there are no materials to download.
 
 The Jurisdiction Manager [enters batch tallies](batch-entry-into-arlo.md) into Arlo.
 {% endhint %}

@@ -4,7 +4,7 @@ After all setup screens are completed and all jurisdictions have uploaded their 
 
 First, take a moment to review all of the audit settings for accuracy.  Arlo provides all of the details for final review.
 
-![](<../../.gitbook/assets/image (73) (1).png>)
+![](<../../.gitbook/assets/image (73) (1) (1).png>)
 
 {% hint style="warning" %}
 **Note**: For **ballot comparison** and **hybrid** audits, some contest names in the CVR files may not match the standardized contest names. To match contest names to the CVR files, simply click on Standardize Contest Names.
@@ -14,7 +14,7 @@ First, take a moment to review all of the audit settings for accuracy.  Arlo pro
 
 And match the contests not found with the contest name in the CVR file.
 
-![](<../../.gitbook/assets/image (61).png>)&#x20;
+<img src="../../.gitbook/assets/image (61).png" alt="" data-size="original">&#x20;
 {% endhint %}
 
 The sample size for each contest will be displayed on the screen.&#x20;
@@ -35,7 +35,7 @@ For ballot polling audits, the BRAVO (Ballot-polling Risk-limiting Audits to Ver
 {% tab title="Hybrid" %}
 For a hybrid audit, Arlo will display the number of ballots in the sample that have CVRs and are subject to the ballot comparison math and the number of ballots without CVRs and subject to the ballot polling math.
 
-![](<../../.gitbook/assets/image (77).png>)
+![](<../../.gitbook/assets/image (77) (1).png>)
 {% endtab %}
 
 {% tab title="Batch Comparison" %}
@@ -50,7 +50,7 @@ When the margin of the contest being audited is close, Arlo may warn you that a 
 
 
 
-![](<../../.gitbook/assets/image (73) (1) (1).png>)
+![](<../../.gitbook/assets/image (73) (1) (1) (1).png>)
 
 &#x20;
 

@@ -8,4 +8,4 @@ When all audit boards have completed their ballot entry and the risk limit has b
 
 If the risk limit was not met after all ballots have been audited, Arlo will immediately escalate to an additional round of sampling. A new ballot retrieval list, placeholders, labels, and audit board credentials will be generated for each jurisdiction required to retrieve more ballots. Use the Start round x button to start the next round.
 
-![](https://lh5.googleusercontent.com/sIpCQexz4G5xBomIN48uI-EM32kBtUkw8Ysmg5RDwBv8xt2TJBAJ1bWiuTDdmKDKkI-rncv3B0FJFsASJjWAj1YtqzKu0Frd2APdjBlBswFA4yN-RI0I0H2uUBqyTW6HyKnLhBRW)
+![](<../.gitbook/assets/image (80).png>)

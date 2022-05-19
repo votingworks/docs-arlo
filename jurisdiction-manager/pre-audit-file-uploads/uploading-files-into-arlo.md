@@ -14,9 +14,9 @@ Click the Browse button and navigate to the ballot manifest .csv file that you c
 {% tab title="Cast Vote Records (CVRs)" %}
 Ballot comparison and hybrid audits require an upload of CVRs.
 
-Under Cast Vote Records, click the Browse button to navigate to your CVR file.  Once selected, click Upload File.
+Under Cast Vote Records, select your CVR File Type, then click the Browse button to navigate to your CVR file.  Once selected, click Upload File.
 
-![](<../../.gitbook/assets/image (46).png>)
+![](<../../.gitbook/assets/image (73).png>)
 {% endtab %}
 
 {% tab title="Candidate Totals by Batch" %}

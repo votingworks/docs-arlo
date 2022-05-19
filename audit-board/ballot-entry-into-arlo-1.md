@@ -23,13 +23,13 @@ Using the audit board credentials provided, the audit board enters ballots into 
 
 3\.  Click Audit First Ballot or select a ballot and click Audit Ballot to begin entering ballots.  &#x20;
 
-![](<../.gitbook/assets/image (73) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (73) (1) (1) (1) (1).png>)
 
 #### Ballot Card Data Entry Screen Overview
 
 There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Selections the batch name and ballot number of the ballot being audited is listed. If the ballot has not been retrieved, use the “Ballot Not Found” button. Use the “All Ballots” button to return to the full list of ballots selected for audit.
 
-![](<../.gitbook/assets/image (75) (1) (1).png>)
+![](<../.gitbook/assets/image (77).png>)
 
 1. Select the candidate(s) marked on the ballot. Both audit board members should agree. Then click Review.  \
    \
@@ -40,11 +40,11 @@ There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Sel
    \
    If the audit board cannot agree - explain in the Add Note box.
 
-![](<../.gitbook/assets/image (72) (1) (1) (1).png>)
+![](<../.gitbook/assets/image (83).png>)
 
 2\.  On the verification screen, review the ballot information for accuracy and click Submit & Next Ballot.
 
-![](<../.gitbook/assets/image (67).png>)
+![](<../.gitbook/assets/image (76).png>)
 
 3\.  Once all ballots have been audited, click Submit Audited Ballots.
 

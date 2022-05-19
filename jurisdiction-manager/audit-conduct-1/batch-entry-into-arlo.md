@@ -10,11 +10,17 @@ The tallies for each batch selected for audit must be entered into Arlo to concl
 
 {% tabs %}
 {% tab title="Batch Comparison" %}
-![](<../../.gitbook/assets/image (74) (1) (1) (1) (1).png>)
-
-
-
 To enter the candidate totals for a batch, click Edit in the Actions column of the batch row.  Enter the candidate totals and click Save.  Once all batches have been entered, click Finalize Results.
+
+![](<../../.gitbook/assets/image (74).png>)
+
+If multiple Audit Board Batch Tally Sheets were used to tally a batch, select the Use Multiple Tally Sheets option.
+
+![](<../../.gitbook/assets/image (81).png>)
+
+Use the Add Tally Sheet button to add each tally sheet.  The Tally Sheet Label may be edited and Arlo will add the sheets together for a final batch total. Be sure to click Save Tally Sheets after entry.
+
+![](<../../.gitbook/assets/image (79).png>)
 {% endtab %}
 
 {% tab title="Full Hand Tally" %}
