@@ -38,7 +38,7 @@ For batch comparison audits only.
 * [ ] Title column A "Batch Name" and additional columns each candidate name as provided by your audit administrator
 * [ ] Verify each batch from your ballot manifest is included and the names match
 * [ ] Save as a .csv file
-* [ ] [Upload into Arlo](uploading-files-into-arlo.md) when promoted
+* [ ] [Upload into Arlo](uploading-files-into-arlo.md) when prompted
 
 {% content-ref url="candidate-totals-by-batch.md" %}
 [candidate-totals-by-batch.md](candidate-totals-by-batch.md)
