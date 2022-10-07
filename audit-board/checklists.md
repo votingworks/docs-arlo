@@ -15,7 +15,7 @@ description: The following are checklists for audit board activities.
 ### **Ballot Entry into Arlo**
 
 * [ ] Record voter marks on a tally sheet (if applicable)
-* [ ] Use the Audit Board Credential sheet to login to Arlo
+* [ ] Use the Audit Board Credential sheet to log in to Arlo
 * [ ] Enter the audit board member names and select party affiliation (if required)
 * [ ] Click Start Auditing
 * [ ] Enter the ballot marks for the current ballot displayed on the screen

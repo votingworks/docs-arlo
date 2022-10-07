@@ -24,7 +24,7 @@ Depending on the number of contests being audited, jurisdictions may use a varie
 {% tab title="Sort & Stack" %}
 **Sort the Ballots**
 
-For each ballot: one audit board member picks up a single ballot from the stack and reads the vote for the contest being audited aloud, then hands the ballot to the second audit board member.  The second audit board member verifies the vote that is on the ballot is indeed what the first audit board member read, then places the ballot in the “stack” that corresponds to the vote. The first audit board member should watch to make sure the ballot is placed in the right stack. A stack should be created for each contest choice (including write-in), overvoted ballots, blank/undervoted ballots, duplicated ballots, and ballots where the audit board cannot agree on the voter’s intent.
+For each ballot: one audit board member picks up a single ballot from the stack and reads the vote for the contest being audited aloud, then hands the ballot to the second audit board member.  The second audit board member verifies the vote that is on the ballot is indeed what the first audit board member read, then places the ballot in the “stack” that corresponds to the vote. The first audit board member should watch to make sure the ballot is placed in the correct stack. A stack should be created for each contest choice (including write-in), overvoted/blank/undervoted ballots, duplicated ballots, and ballots where the audit board cannot agree on the voter’s intent.
 
 **Count the Stacks**&#x20;
 
@@ -68,11 +68,11 @@ When all ballots are tallied, total the tally marks and complete the Audit Board
 
 Some ballots may need special attention. The following ballot types may need special review. Depending on the audit, these steps may be performed by the audit board or a special review team.
 
-**Duplicated ballots -** ballots that were hand duplicated require the retrieval of  the original ballot. Use the original ballot to determine the vote cast by the voter in the contest being audited.
+**Duplicated ballots -** ballots that were hand duplicated require the retrieval of the original ballot. Use the original ballot to determine the vote cast by the voter in the contest being audited.
 
 **Write-In ballots -** in states where write-in ballots are required to be qualified, write-in ballots should be compared to the list of qualified write-in candidates  and tallied if deemed qualified according to state rule or law.&#x20;
 
-**Undetermined ballots -** if an audit board can not agree on the voter’s mark(s), an additional person or designated team could help break a tie. If a determination is not made, a remark can be made in Arlo to explain.&#x20;
+**Undetermined ballots -** if an audit board can not agree on the voter’s mark(s), an additional person or designated team should review to make a determination. If a determination is not made, a remark can be made in Arlo to explain.&#x20;
 
 ### **Final Steps**
 

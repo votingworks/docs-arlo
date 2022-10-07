@@ -21,8 +21,7 @@ Retrieving ballots for a ballot comparison risk-limiting audit is a very precise
 
 ![](https://lh3.googleusercontent.com/uxryX1\_jEnlXqxkUHQVvnHWF6XSsFJycSaIUoRKz6TwP1MFMYsT737z4rpkRa-e2VIK5kL3j2bKsLb0hz7FxBttjFwyu9eVYYKC5Qg4n8RwUJm8PoWkPY8ldTDbklx1bSQ5ZNiUu)
 
-Each ballot retrieval list will show the container, the tabulator, the batch name, the ballot number to be retrieved, and where applicable, the imprinted ID. \
-
+Each ballot retrieval list will show the container, the tabulator, the batch name, the ballot number to be retrieved, and where applicable, the imprinted ID.&#x20;
 {% endtab %}
 {% endtabs %}
 

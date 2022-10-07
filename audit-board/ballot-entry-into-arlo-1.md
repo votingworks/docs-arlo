@@ -16,8 +16,9 @@ Using the audit board credentials provided, the audit board enters ballots into 
 
 ![](<../.gitbook/assets/image (63).png>)
 
-1. Use the QR code or type the randomly generated url into your toolbar. This is different for everyone - do not use the url or QR code in the example.
-2. Enter audit board member information. We recommend two people complete this task to ensure accurate data entry. Complete Party Affiliation information as required by your state.
+Use the QR code or type the randomly generated url into your toolbar. This is different for everyone - do not use the url or QR code in the example.
+
+Enter audit board member information. We recommend two people complete this task to ensure accurate data entry. Complete Party Affiliation information as required by your state.
 
 ![](https://lh6.googleusercontent.com/HPoMJSkuYeBKEcEH1pxvGHKNGBYF8mrkWPZonvPGuoUsJefj2\_UY3d25HHghR88DYfXJpTKakF86d\_ymbZ\_itnnOeDNHMcGKowv9NUuf5KSjlVx5petIZhys1IQfq0XGamK3SCjL)
 

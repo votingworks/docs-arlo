@@ -1,5 +1,7 @@
 ---
-description: The following is a checklist for ballot retrieval.
+description: >-
+  The following is a checklist for ballot retrieval for ballot comparison,
+  ballot polling, or hybrid RLAs.
 ---
 
 # Audit Conduct

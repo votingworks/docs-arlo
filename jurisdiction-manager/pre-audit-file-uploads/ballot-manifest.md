@@ -20,7 +20,7 @@ Open a spreadsheet program and create a simple spreadsheet with two columns. The
 
 ![](<../../.gitbook/assets/image (9).png>)
 
-![](<../../.gitbook/assets/image (8).png>)
+![](<../../.gitbook/assets/image (8) (1).png>)
 {% endtab %}
 
 {% tab title="Ballot Comparison" %}
@@ -33,8 +33,7 @@ Open a spreadsheet program and create a simple spreadsheet with four columns.
 
 ![](<../../.gitbook/assets/image (74) (1).png>)
 
-Enter the data for your county or jurisdiction. When you're finished, take a second to ensure the total number of ballots matches your number of ballots cast.  Then save the file as a .csv file. \
-
+Enter the data for your county or jurisdiction. When you're finished, take a second to ensure the total number of ballots matches your number of ballots cast.  Then save the file as a .csv file.&#x20;
 {% endtab %}
 
 {% tab title="Hybrid" %}

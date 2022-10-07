@@ -2,7 +2,7 @@
 description: >-
   A secure auditable paper trail is a key component of a risk-limiting audit.
   The following instructions are recommendations for managing and reconciling
-  batches of ballot to facilitate better RLAs.
+  batches of ballots to facilitate better RLAs.
 ---
 
 # Batch Management
@@ -23,7 +23,7 @@ Storing centrally scanned ballots in the exact order they were scanned allows a 
 
 ### **Documenting a Batch**
 
-Precincts, vote centers, and early voting sites should at a minimum document and reconcile the number of ballots tabulated with the number of voters checked in. Use a simple precinct reconciliation form like the one displayed below. When ballots are able to be further batched by tabulator or date, this form can be modified to include multiple public counter boxes and tabulator ID numbers or set up in a format that allows for daily reconciliation.  Use the information from your reconciliation forms to to build your [ballot manifest](../jurisdiction-manager/pre-audit-file-uploads/ballot-manifest.md).
+Precincts, vote centers, and early voting sites should at a minimum document and reconcile the number of ballots tabulated with the number of voters checked in. Use a simple precinct reconciliation form like the one displayed below. When ballots are able to be further batched by tabulator or date, this form can be modified to include multiple public counter boxes and tabulator ID numbers or set up in a format that allows for daily reconciliation.  Use the information from your reconciliation forms to build your [ballot manifest](../jurisdiction-manager/pre-audit-file-uploads/ballot-manifest.md).
 
 ![](<../.gitbook/assets/image (47).png>)
 

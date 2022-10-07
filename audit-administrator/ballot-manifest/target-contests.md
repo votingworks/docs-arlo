@@ -12,10 +12,10 @@ The total ballot cards cast _**should be the total number of ballots in your bal
 
 ![](<../../.gitbook/assets/image (78).png>)
 
-If a contest has more than two choices, click Add a new candidate/choice to add more lines.
+If a contest has more than two choices, select Add a new candidate/choice to add more lines.
 
 {% hint style="warning" %}
-**Note:** for **hybrid** audits, the Contest Name field will be a drop down menu populated from the standardized contest file. If using ES\&S CVRs, “overvote” and “undervote” must each be listed as a candidate/choice (using the names quoted).&#x20;
+**Note:** for **hybrid** audits, the Contest Name field will be a drop down menu populated from the standardized contest file. &#x20;
 
 For **batch comparison** audits, the Names of Candidates/Choices will drive the required candidate headers in the contest totals by batch file. The [candidate totals by batch file'](../../jurisdiction-manager/pre-audit-file-uploads/candidate-totals-by-batch.md)s headers must match the candidate names entered at this step.
 {% endhint %}
@@ -26,7 +26,7 @@ The last step in setting up a targeted contest is to select which jurisdictions 
 
 If more than one contest is targeted for audit, use the Add another targeted contest button to add additional targeted contests.
 
-Click Save & Next when finished.\
+Select Save & Next when finished.\
 
 {% endtab %}
 

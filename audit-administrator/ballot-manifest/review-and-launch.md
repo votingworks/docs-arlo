@@ -54,7 +54,7 @@ When the margin of the contest being audited is close, Arlo may warn you that a 
 
 &#x20;
 
-**Note:** a full hand tally can only be completed on one contest and as a ballot polling or batch comparison audit.  If auditing multiple targeted contests, remove either the contest(s) requiring a full hand tally or the contest(s) not requiring a full hand tally to proceed. Start a new ballot polling audit to complete a full hand tally for ballot comparison or hybrid audits.&#x20;
+**Note:** a full hand tally can only be completed on one contest and as a ballot polling or batch comparison audit.  If auditing multiple targeted contests, remove either the contest(s) requiring a full hand tally or the contest(s) not requiring a full hand tally to proceed. Start a new batch comparison audit to complete a full hand tally for ballot comparison or hybrid audits.&#x20;
 
 &#x20;
 {% endhint %}

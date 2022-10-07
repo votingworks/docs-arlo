@@ -10,8 +10,8 @@ A standardized contests file tells Arlo which contests to expect and their corre
 
 When the spreadsheet is ready, upload it into the Participants & Contests section of Arlo, as follows:
 
-1. Click Browse and locate the standardized contests .csv file created&#x20;
-2. Click Upload File.
-3. Click Next.
+1. Select Browse and locate the standardized contests .csv file created.
+2. Select Upload File.
+3. Select Next.
 
 ![](<../../.gitbook/assets/image (23).png>)

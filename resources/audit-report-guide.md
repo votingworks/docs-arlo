@@ -14,7 +14,7 @@ This election info section provides the basic election information for the audit
 
 ### **Contests Section**
 
-This contests section provides the tabulated results for each contest subject to audit.
+The contests section provides the tabulated results for each contest subject to audit.
 
 ![](https://lh4.googleusercontent.com/x-RBp62PYEwmM6GFoGK9raZDVFb82bkP\_dUpBnLWfoxQ-YzlsvXSYNno4vKUHlKJh7Cj\_VkLjky5\_dPRbgsR3igQVq31BgAtysRP4B5N6NHZfAoSiFxc2fGPPWMeKAQJmAqBf47L)
 

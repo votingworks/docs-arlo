@@ -20,27 +20,25 @@ If multiple Audit Board Batch Tally Sheets were used to tally a batch, select th
 
 Use the Add Tally Sheet button to add each tally sheet.  The Tally Sheet Label may be edited and Arlo will add the sheets together for a final batch total. Be sure to click Save Tally Sheets after entry.
 
-![](<../../.gitbook/assets/image (79).png>)
+![Click “Add batch” to add a new batch](<../../.gitbook/assets/image (79).png>)
 {% endtab %}
 
 {% tab title="Full Hand Tally" %}
-1. &#x20;Click “Add batch” to add a new batch
+To enter the candidate totals for a batch, select +Add batch.
 
-![](https://lh6.googleusercontent.com/crm7FcwOCU53IBiIsy3YJ\_jc-haRRqhuwnWMI5ae4X\_JnE-bXo5dnsBVCXGYfssQx3JsvOhGTHAWNI6Fq3TjKXwjK1tzlvm8QnYWx7HHefmogmWHqbbHFxzwgWh8YM4pUgy2Ag-D)
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-2\.  When the data entry window appears, enter the counts for each batch. Batch Type is an optional field.
+When the data entry window appears, enter the counts for each batch. Batch Type is an optional field.
 
 ![](<../../.gitbook/assets/image (32).png>)
 
-3\.  Click Save Batch after you are done entering data for each batch.
-
-4\.  The entered batch will appear on the batch list on screen.&#x20;
+Select Save Batch after you are done entering data for each batch. The entered batch will appear on the batch list on screen.&#x20;
 
 ![](https://lh6.googleusercontent.com/XUwl\_lhfipOF626glZmOZs4Rrs-f-wDDufaz-NgJ5Dmn9jk2j\_rbDhmNDPIxQhoQzBeoS2e64c5WJa\_Wxne9RtxCGSJZQgEz6tyx9X-5NHJIN-0in6kxIl4meoMl5kAhIeQyfDD2)
 
-To edit a batch already entered, click the Edit button next to the batch name.  Use the +Add batch button to record the next batch.&#x20;
+To edit a batch already entered, select the Edit button next to the batch name.  Use the +Add batch button to record the next batch.&#x20;
 
-5\.  When all batches for your jurisdiction are recorded, click Finalize Results.
+When all batches for your jurisdiction are recorded, select Finalize Results.
 
 ![](https://lh6.googleusercontent.com/abtoGsCh-jPomWUAsV7CU\_-H9oT6P5rll3x\_PZpqKkD1v8OGwQ\_vGHPwTJyV4ATlGC3y5IJStYPohaMLlTExw9ZlQLLoshuck9VXUDsAsP1s968m1EumeaPeNHWdQ2LpxiEa3Esd)
 {% endtab %}

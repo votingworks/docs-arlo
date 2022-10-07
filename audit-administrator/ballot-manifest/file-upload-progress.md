@@ -16,9 +16,9 @@ Once the participant list is uploaded, the audit admin can monitor the file uplo
 **2/2 files uploaded -** jurisdiction has successfully uploaded their audit files.\
 **Upload failed -** jurisdiction has attempted to upload one or more of the files but an error was found.
 
-To review the files, click on the Jurisdiction Name.  Then click on the file name next to Upload Failed.
+To review the files, select the Jurisdiction Name.  Then select Download under the file name to review.
 
-![](https://lh5.googleusercontent.com/hYiOtLzsrrPOUc7cIsWD4GFY8gHuluTVYeY5FGD4hGZLWE3\_H2looTtg6Pgf21LB-2zGtCJkJSwz3eJvGO0luCHKHeBtoOIfGTleftVqPc\_HJH\_FEwnAhrGBcCIQQEOyoCNtOhz2)
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Total in Manifest is the total number of ballots the jurisdiction has in their manifest. This should match their number of ballots tabulated.
 

@@ -1,6 +1,6 @@
 # Audit Setup
 
-A state or jurisdiction administrator of the election should set up the audit in Arlo.  To set up an audit in Arlo, using Chrome or Safari as your browser, enter the url provided by VotingWorks, and follow these steps:
+A state or jurisdiction administrator of the election should set up the audit in Arlo.  To set up an audit in Arlo, using Chrome or Safari as your browser, go to [https://arlo.voting.works/](https://arlo.voting.works/), and follow these steps:
 
 1. Enter the name of your audit in the box provided.
 2. Select the [audit type](../../audit-types.md).

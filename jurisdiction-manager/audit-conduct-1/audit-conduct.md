@@ -24,7 +24,7 @@ Choose the number of audit boards. The audit board setup is used to divide the r
 {% endtab %}
 
 {% tab title="Batch Comparison" %}
-**Batch retrieval list -** a list of all of the batches that need to be retrieved in the jurisdiction. This list should be distributed to all audit boards.
+**Batch retrieval list -** a list of all of the batches that need to be retrieved in the jurisdiction.&#x20;
 
 **Batch tally sheets -** ready to print batch tally sheets for use in recording batch tallies.  \
 
