@@ -2,7 +2,7 @@
 
 When all jurisdictions have completed their ballot/batch entry and the risk limit has been met, Arlo will provide each jurisdiction with a report that includes all of their ballot retrieval information.  Click on the Download Audit Report button for a copy of the report.
 
-![](<../.gitbook/assets/image (33).png>)
+![](<../.gitbook/assets/image (33) (1).png>)
 
 ### **Additional Sampling**
 

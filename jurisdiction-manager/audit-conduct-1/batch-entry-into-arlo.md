@@ -6,27 +6,31 @@ description: >-
 
 # Batch Entry into Arlo
 
-The tallies for each batch selected for audit must be entered into Arlo to conclude the audit. Jurisdiction Managers must [login to Arlo](../logging-into-arlo.md) to enter the tallies.&#x20;
+The tallies for each batch selected for audit must be entered into Arlo to conclude the audit. Tallies can be entered by audit boards, specified tally entry users, and/or jurisdiction managers.
+
+To create tally entry accounts for audit boards or specified tally entry users, select Set Up Tally Entry Accounts on the Set Up Tally Entry Accounts screen. If the Jurisdiction Manager will be entering tallies, select Skip.
+
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+The Jurisdiction Manager should provide the Tally Entry User(s) with the login link displayed on the screen (each link is unique to the jurisdiction). Then the Tally Entry User(s) should Log In by entering their name(s) and party affiliation (if required).  A login code will be provided, the Jurisdiction Manager should enter that code to authenticate the Tally Entry User(s) and complete the login process.
+
+<figure><img src="../../.gitbook/assets/image (21).png" alt=""><figcaption><p>                                    Jurisdiction Manager                                                                                         Tally Entry User             </p></figcaption></figure>
 
 {% tabs %}
 {% tab title="Batch Comparison" %}
-To enter the candidate totals for a batch, click Edit in the Actions column of the batch row.  Enter the candidate totals and click Save.  Once all batches have been entered, click Finalize Results.
+To enter the candidate totals for a batch, select the batch from the list on the left hand of the Enter Tallies screen or use the search batches function. Enter the vote totals and select Save Results.  Once all batches have been entered, select Finalize Results.
 
-![](<../../.gitbook/assets/image (74).png>)
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-If multiple Audit Board Batch Tally Sheets were used to tally a batch, select the Use Multiple Tally Sheets option.
+If multiple Audit Board Batch Tally Sheets were used to tally a batch, select the Use Multiple Tally Sheets option to enter more tally sheets.
 
-![](<../../.gitbook/assets/image (81).png>)
-
-Use the Add Tally Sheet button to add each tally sheet.  The Tally Sheet Label may be edited and Arlo will add the sheets together for a final batch total. Be sure to click Save Tally Sheets after entry.
-
-![Click “Add batch” to add a new batch](<../../.gitbook/assets/image (79).png>)
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Full Hand Tally" %}
 To enter the candidate totals for a batch, select +Add batch.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 When the data entry window appears, enter the counts for each batch. Batch Type is an optional field.
 
