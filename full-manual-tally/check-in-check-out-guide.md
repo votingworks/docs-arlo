@@ -31,7 +31,7 @@ Do not enter the write-in candidates from the _Audit Board Batch Sheet_. Only en
 * Select your number of audit boards and click `Save & Next`
 * If you have more than 15 Audit Boards, just select "1" and click  `Save & Next`
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 ### Add Batch
 

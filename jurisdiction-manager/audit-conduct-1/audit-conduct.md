@@ -4,10 +4,6 @@ Once the audit has been launched, each jurisdiction must login to download and p
 
 [Login to Arlo](../logging-into-arlo.md)
 
-Choose the number of audit boards. The audit board setup is used to divide the retrieval and tally tasks.  When large amounts of ballots are being audited, more teams should be utilized.  One audit board can generally pull 20-25 ballots/hr.
-
-![](https://lh4.googleusercontent.com/c-dgzXgilBTpDdMOzLezyyujwBrpEL93SJQ\_ktqfENW8L\_VK5RymiXqtb\_65a-RYYOceO9vwKsChMP1ouCPyYkHzPWEJ1TPKB2\_xMDLy4R6g1YYAC0g\_O\_oDp98wunn\_LmBPNZd8)
-
 **Download and Print your Audit Materials**
 
 {% tabs %}
@@ -37,7 +33,7 @@ Choose the number of audit boards. The audit board setup is used to divide the r
 \
 
 
-<figure><img src="../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

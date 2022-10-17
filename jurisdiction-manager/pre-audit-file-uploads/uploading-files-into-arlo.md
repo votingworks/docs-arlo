@@ -32,7 +32,7 @@ Under Candidate Totals by Batch, click the Browse button to navigate to the cand
 
 When the upload(s) are successful, a message will appear at the top of the screen that says “1/1 or 2/2 files successfully uploaded.”&#x20;
 
-![](<../../.gitbook/assets/image (13) (1).png>)
+![](<../../.gitbook/assets/image (13).png>)
 
 After you upload, if you find a mistake in the files, log back in and use the Replace File button to update the file.
 

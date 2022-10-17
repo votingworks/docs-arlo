@@ -24,13 +24,13 @@ To enter the candidate totals for a batch, select the batch from the list on the
 
 If multiple Audit Board Batch Tally Sheets were used to tally a batch, select the Use Multiple Tally Sheets option to enter more tally sheets.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Full Hand Tally" %}
 To enter the candidate totals for a batch, select +Add batch.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption></figcaption></figure>
 
 When the data entry window appears, enter the counts for each batch. Batch Type is an optional field.
 

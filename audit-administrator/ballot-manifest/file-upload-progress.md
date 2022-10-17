@@ -18,7 +18,7 @@ Once the participant list is uploaded, the audit admin can monitor the file uplo
 
 To review the files, select the Jurisdiction Name.  Then select Download under the file name to review.
 
-<figure><img src="../../.gitbook/assets/image (3) (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 Total in Manifest is the total number of ballots the jurisdiction has in their manifest. This should match their number of ballots tabulated.
 
