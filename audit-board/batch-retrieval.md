@@ -76,4 +76,4 @@ Some ballots may need special attention. The following ballot types may need spe
 
 ### **Final Steps**
 
-Once the batch has been tallied, return all ballots to the container, reseal the container, and complete any chain of custody documentation required. Return the Audit Board Batch Tally Sheet to the Jurisdiction Manager.
+Once the batch has been tallied, return all ballots to the container, reseal the container, and complete any chain of custody documentation required. Return everything to the check-in/out station.
