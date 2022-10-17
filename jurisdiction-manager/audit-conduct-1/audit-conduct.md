@@ -12,6 +12,12 @@ Choose the number of audit boards. The audit board setup is used to divide the r
 
 {% tabs %}
 {% tab title="Ballot Polling/Ballot Comparison/Hybrid" %}
+Choose the number of audit boards. The audit board setup is used to divide the retrieval and tally tasks.  When large amounts of ballots are being audited, more teams should be utilized.  One audit board can generally pull 20-25 ballots/hr.
+
+![](https://lh4.googleusercontent.com/c-dgzXgilBTpDdMOzLezyyujwBrpEL93SJQ\_ktqfENW8L\_VK5RymiXqtb\_65a-RYYOceO9vwKsChMP1ouCPyYkHzPWEJ1TPKB2\_xMDLy4R6g1YYAC0g\_O\_oDp98wunn\_LmBPNZd8)
+
+****
+
 **Ballot retrieval list -** a list of all of the ballots that need to be retrieved in the jurisdiction. This list should be distributed to all audit boards.
 
 **Placeholder sheets -** ready to print placeholder sheets for use in ballot retrieval.  We recommend printing on bright colored paper.
@@ -37,7 +43,5 @@ Choose the number of audit boards. The audit board setup is used to divide the r
 
 {% hint style="warning" %}
 **Note:** For full hand tally, there are no materials to download.
-
-The Jurisdiction Manager [enters batch tallies](batch-entry-into-arlo.md) into Arlo.
 {% endhint %}
 
