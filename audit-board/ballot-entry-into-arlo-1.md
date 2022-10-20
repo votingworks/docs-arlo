@@ -14,7 +14,7 @@ Jurisdiction Managers [must print the audit board credentials ](../jurisdiction-
 
 Using the audit board credentials provided, the audit board enters ballots into Arlo as follows:
 
-![](<../.gitbook/assets/image (63).png>)
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 Use the QR code or type the randomly generated url into your toolbar. This is different for everyone - do not use the url or QR code in the example.
 

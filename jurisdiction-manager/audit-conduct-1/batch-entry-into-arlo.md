@@ -20,11 +20,11 @@ The Jurisdiction Manager should provide the Tally Entry User(s) with the login l
 {% tab title="Batch Comparison" %}
 To enter the candidate totals for a batch, select the batch from the list on the left hand of the Enter Tallies screen or use the search batches function. Enter the vote totals and select Save Results.  Once all batches have been entered, select Finalize Results.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption></figcaption></figure>
 
 If multiple Audit Board Batch Tally Sheets were used to tally a batch, select the Use Multiple Tally Sheets option to enter more tally sheets.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Full Hand Tally" %}

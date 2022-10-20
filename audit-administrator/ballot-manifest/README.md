@@ -11,3 +11,5 @@ A state or jurisdiction administrator of the election should set up the audit in
 {% hint style="info" %}
 See [Audit Types section ](../../audit-types.md)for information on each audit type.
 {% endhint %}
+
+{% embed url="https://www.youtube.com/watch?index=3&list=PLvehCClJUfizPqqTmYk2oZNX1jGEkdzi7&v=vPcQwkSd-3Y" %}

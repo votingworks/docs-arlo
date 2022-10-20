@@ -50,3 +50,5 @@ When a duplicated ballot is retrieved, the original ballot should also be retrie
 {% endhint %}
 
 Once the ballots have been retrieved from a container, reseal the container (keeping the ballots selected out) and complete any required chain of custody documentation.
+
+{% embed url="https://www.youtube.com/watch?index=4&list=PLvehCClJUfizPqqTmYk2oZNX1jGEkdzi7&v=nKVCAicByzs" %}
