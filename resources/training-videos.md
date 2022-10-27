@@ -8,27 +8,39 @@ description: >-
 
 ## RLA Basics
 
-{% embed url="https://www.youtube.com/embed/M6qKtlt_0g0" %}
+{% embed url="https://youtube.com/playlist?list=PLvehCClJUfizPqqTmYk2oZNX1jGEkdzi7" %}
 
-## Audit Preparation for Ballot Polling
+## Audit Preparation
 
-{% embed url="https://www.youtube.com/embed/CKN8nYB8eBg" %}
+{% embed url="https://youtu.be/v_kWNgkiSjc" %}
 
 ## Audit Setup
 
-{% embed url="https://www.youtube.com/embed/K7Pr9leTiY0" %}
+{% embed url="https://youtu.be/vPcQwkSd-3Y" %}
 
 ## Ballot Retrieval
 
-{% embed url="https://www.youtube.com/embed/VEuhrZb4auU" %}
+{% embed url="https://youtu.be/nKVCAicByzs" %}
 
 ## Tally the Votes
 
-{% embed url="https://www.youtube.com/embed/zuspqhNL3C0" %}
+Coming soon
 
-## Full Manual Tally - Audit Board
 
-{% embed url="https://www.youtube.com/watch?v=U3Vqs2CtQV8" %}
+
+## Batch Retrieval
+
+Coming soon
+
+
+
+## Batch Tally
+
+Coming soon
+
+## Audit Board Batch Tally Process - Sort & Stack
+
+{% embed url="https://youtu.be/pjcGXjvpEDs" %}
 
 
 

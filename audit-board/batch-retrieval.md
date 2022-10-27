@@ -33,7 +33,7 @@ Count the ballots in each stack by having one member of the audit board verbally
 
 ![](https://lh4.googleusercontent.com/RAv\_P3xI4mMEh9zYgetFmaHgLnzWT1mdKfKgIxRtZrBtFtz5N3Es8bzNbj0\_d0oqESZo9dv6GRkjxwFsgwsQ7C4\_zB-0hhNV3\_pi01N249a9pOKh-506BwCEOHxdWcTk0daGXnWkTvQxB\_0oz1I1uw)
 
-{% embed url="https://www.youtube.com/watch?v=U3Vqs2CtQV8" %}
+{% embed url="https://youtu.be/pjcGXjvpEDs" %}
 {% endtab %}
 
 {% tab title="Read & Mark" %}
@@ -61,8 +61,6 @@ When all ballots are tallied, total the tally marks and complete the Audit Board
 ![](https://lh4.googleusercontent.com/RAv\_P3xI4mMEh9zYgetFmaHgLnzWT1mdKfKgIxRtZrBtFtz5N3Es8bzNbj0\_d0oqESZo9dv6GRkjxwFsgwsQ7C4\_zB-0hhNV3\_pi01N249a9pOKh-506BwCEOHxdWcTk0daGXnWkTvQxB\_0oz1I1uw)
 {% endtab %}
 {% endtabs %}
-
-
 
 ### **Adjudicating Ballots**
 
