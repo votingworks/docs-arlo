@@ -36,6 +36,6 @@ When the upload(s) are successful, a message will appear at the top of the scree
 
 After you upload, if you find a mistake in the files, log back in and use the Replace File button to update the file.
 
-![](<../../.gitbook/assets/image (15) (1).png>)
+![](<../../.gitbook/assets/image (15) (1) (1).png>)
 
 If you are having problems uploading the file(s), verify you have saved the spreadsheet in .csv format, your columns are named correctly, and make sure there are no extra columns or rows.  If you continue to have problems with your manifest, CVRs, or candidate totals by batch files, please send the file to [rla@vx.support](mailto:rla@vx.support) for review.\

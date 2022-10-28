@@ -31,7 +31,7 @@ Retrieve the correct container and perform required chain of custody verificatio
 **Note**: for ballot comparison audits the ballots must be pulled out in the exact order they were stored.
 {% endhint %}
 
-![](<../.gitbook/assets/image (16).png>)
+![](<../.gitbook/assets/image (16) (1).png>)
 
 Next refer back to the Ballot Number column of your retrieval list for the ballot number (or numbers) that you need. Start counting at one and stop counting when you get to the ballot number that you are retrieving. &#x20;
 

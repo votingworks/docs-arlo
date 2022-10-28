@@ -14,47 +14,48 @@ Jurisdiction Managers [must print the audit board credentials ](../jurisdiction-
 
 Using the audit board credentials provided, the audit board enters ballots into Arlo as follows:
 
-<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
 
 Use the QR code or type the randomly generated url into your toolbar. This is different for everyone - do not use the url or QR code in the example.
 
 Enter audit board member information. We recommend two people complete this task to ensure accurate data entry. Complete Party Affiliation information as required by your state.
 
-![](https://lh6.googleusercontent.com/HPoMJSkuYeBKEcEH1pxvGHKNGBYF8mrkWPZonvPGuoUsJefj2\_UY3d25HHghR88DYfXJpTKakF86d\_ymbZ\_itnnOeDNHMcGKowv9NUuf5KSjlVx5petIZhys1IQfq0XGamK3SCjL)
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
 3\.  Click Audit First Ballot or select a ballot and click Audit Ballot to begin entering ballots.  &#x20;
 
-![](<../.gitbook/assets/image (73) (1) (1) (1) (1).png>)
+<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 
 #### Ballot Card Data Entry Screen Overview
 
 There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Selections the batch name and ballot number of the ballot being audited is listed. If the ballot has not been retrieved, use the “Ballot Not Found” button. Use the “All Ballots” button to return to the full list of ballots selected for audit.
 
-![](<../.gitbook/assets/image (77).png>)
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
-1. Select the candidate(s) marked on the ballot. Both audit board members should agree. Then click Review.  \
+1. Select the candidate(s) marked on the ballot. Both audit board members should agree. Then select Submit Selections.  \
    \
    No vote types:\
    **Overvote** - select each candidate marked by the voter\
    **Contest not voted** - select the Blank Vote button\
    **Contest not on ballot** - select Not on Ballot button\
+   **Invalid Write-In** - select Invalid Write-In (if a contest has valid write-in candidates, a Write-In button will be listed with contest choices)\
    \
    If the audit board cannot agree - explain in the Add Note box.
 
-![](<../.gitbook/assets/image (83).png>)
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-2\.  On the verification screen, review the ballot information for accuracy and click Submit & Next Ballot.
+2\.  On the verification screen, review the ballot information for accuracy and select Confirm Selections to go to the next ballot.
 
-![](<../.gitbook/assets/image (76).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-3\.  Once all ballots have been audited, click Submit Audited Ballots.
+3\.  Once all ballots have been audited, select Submit Audited Ballots.
 
-![](<../.gitbook/assets/image (71).png>)
+<figure><img src="../.gitbook/assets/image (64).png" alt=""><figcaption></figcaption></figure>
 
 4\.  Enter auditor names exactly as they were entered at the start and click Sign Off.&#x20;
 
-![](https://lh3.googleusercontent.com/MV3GHzyKcSpopGy7Tqmt6tf2D2vbr3ELN70qUpZhvlqHLCeM5pM3Sk8NqrvRk4ZMMmW8EdGy0bkyBZO6lzX5fQMtiiFhorCIJGA7Io365qiZEkzqe71n3CrUjC0C5RnYjVMXhgDo)
+<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 Audited ballots should be resecured in a ballot container. Generally a new container is recommended but when very small numbers of ballots are retrieved, it may make more sense to return them to their original container.&#x20;
 
-{% embed url="https://youtu.be/zuspqhNL3C0" %}
+{% embed url="https://www.youtube.com/watch?index=6&list=PLvehCClJUfizPqqTmYk2oZNX1jGEkdzi7&v=FvJp43MH0lY" %}

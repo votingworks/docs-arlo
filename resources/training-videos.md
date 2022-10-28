@@ -24,13 +24,11 @@ description: >-
 
 ## Tally the Votes
 
-Coming soon
-
-
+{% embed url="https://www.youtube.com/watch?v=FvJp43MH0lY&list=PLvehCClJUfizPqqTmYk2oZNX1jGEkdzi7&index=6" %}
 
 ## Batch Retrieval
 
-Coming soon
+{% embed url="https://www.youtube.com/watch?index=5&list=PLvehCClJUfizPqqTmYk2oZNX1jGEkdzi7&v=io-7uEYgqzw" %}
 
 
 

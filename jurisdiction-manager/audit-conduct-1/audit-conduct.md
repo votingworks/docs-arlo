@@ -22,7 +22,7 @@ Choose the number of audit boards. The audit board setup is used to divide the r
 
 **Audit board credentials -** a QR code and url for use by the audit boards to complete the data entry for each ballot pulled. ****&#x20;
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Batch Comparison" %}

@@ -11,4 +11,4 @@ A room or facility where ballots can be reviewed securely is important.
 
 The following is a suggested layout for four audit boards with a monitor. Observation is best done in front of the audit board tables.
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (8) (2).png>)
