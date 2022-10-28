@@ -12,8 +12,8 @@ At a minimum, two people are needed to check ballots in/out to audit boards for 
 
 Please see the Check-In/Check-Out Station Guide for more detail on Check-In/Out procedure:
 
-{% content-ref url="check-in-check-out-guide.md" %}
-[check-in-check-out-guide.md](check-in-check-out-guide.md)
+{% content-ref url="../resources/check-in-check-out-guide.md" %}
+[check-in-check-out-guide.md](../resources/check-in-check-out-guide.md)
 {% endcontent-ref %}
 
 ## **Role #3 - Audit Boards**
