@@ -1,9 +1,3 @@
----
-description: >-
-  A check-in/check-out station is recommended for all audits where multiple
-  batches are being audited.
----
-
 # Check-In / Check-Out Station
 
 At a minimum, two people are needed to check ballots in/out to audit boards for chain of custody as well as keep inventory of the ballot containers audited. One person should be stationed with the ballot containers at all times while another person delivers containers to and from the audit boards (a “runner”). This keeps the audit boards stationary and provides a methodical process for keeping track of each container. If you have more than a few audit boards, be sure to add an additional runner for every 5 audit boards to ensure the delivery and pick-up of ballot containers is not a bottleneck in the process.
@@ -24,4 +18,6 @@ When an audit board indicates it has completed their tasks, the check-in/out sta
 * note the return of the container on the _Ballot Container Inventory Sheet_
 * deliver any necessary ballots/envelopes to any station that may provide further review (duplicates, write-ins, needs further review)
 * enter the candidate totals for the batch into Arlo and mark the batch sheet as “entered” (for batch comparison audits)
+
+
 

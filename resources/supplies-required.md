@@ -6,13 +6,7 @@ description: >-
 
 # Supplies Required
 
-## Room Setup
-
-* [ ] Signage for designated monitors to sign in (provided)
-* [ ] Designated monitor sign-in sheets (provided)
-* [ ] Name tags for staff
-* [ ] Tape for signs
-* [ ] Pens
+##
 
 ## Check In/Out Station:
 

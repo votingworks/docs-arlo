@@ -12,29 +12,17 @@ At a minimum, two people are needed to check ballots in/out to audit boards for 
 
 Please see the Check-In/Check-Out Station Guide for more detail on Check-In/Out procedure:
 
-{% content-ref url="../resources/check-in-check-out-guide.md" %}
-[check-in-check-out-guide.md](../resources/check-in-check-out-guide.md)
-{% endcontent-ref %}
-
 ## **Role #3 - Audit Boards**
 
 Audit boards must be comprised of two people and will be responsible for sorting and tallying the votes in the Presidential race for each ballot in a batch. Be sure to keep tables clear of anything (especially food and beverage) other than ballots and required documentation. Audit Board members will direct _any and all_ procedural questions to the Election Superintendent or their designee by raising their question mark sign.
 
 Please see the Audit Board Guide for more detail on Audit Board procedure:
 
-{% content-ref url="audit-board-guide.md" %}
-[audit-board-guide.md](audit-board-guide.md)
-{% endcontent-ref %}
-
 ## **Role #4 - Vote Review Panel**
 
 Various types of ballots will be delivered to the Vote Review Panel after an audit board has completed their work.
 
 Please see the Vote Review Panel guide for more detail on Vote Review Panel procedure:
-
-{% content-ref url="vote-review-panel-guide.md" %}
-[vote-review-panel-guide.md](vote-review-panel-guide.md)
-{% endcontent-ref %}
 
 
 

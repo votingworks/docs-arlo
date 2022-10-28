@@ -41,18 +41,11 @@
 
 ## Resources
 
-* [Audit Report Guide](resources/audit-report-guide.md)
-* [Check-In / Check-Out Station](resources/check-in-check-out-guide.md)
+* [Check-In / Check-Out Station](full-manual-tally/check-in-check-out-guide.md)
 * [Batch Management](resources/batch-management.md)
+* [Space Setup](resources/space-setup.md)
+* [Audit Report Guide](resources/audit-report-guide.md)
 * [RLA Model Legislation](resources/rla-model-legislation.md)
 * [Training Videos](resources/training-videos.md)
-
-## Georgia Full Manual Tally - November 2020 <a href="#full-manual-tally" id="full-manual-tally"></a>
-
-* [Space Setup](full-manual-tally/space-setup.md)
-* [Supplies Required](full-manual-tally/supplies-required.md)
-* [Audit Roles](full-manual-tally/audit-roles.md)
-* [Audit Board Guide](full-manual-tally/audit-board-guide.md)
-* [Vote Review Panel Guide](full-manual-tally/vote-review-panel-guide.md)
-* [Monitors & Observers](full-manual-tally/monitors-and-observers.md)
-* [Full Manual Tally – Resources](full-manual-tally/full-manual-tally-all-resources.md)
+* [Audit Roles](resources/audit-roles.md)
+* [Supplies Required](resources/supplies-required.md)
