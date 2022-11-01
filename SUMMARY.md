@@ -16,7 +16,6 @@
   * [Prepare Audit Materials](jurisdiction-manager/audit-conduct-1/audit-conduct.md)
   * [Batch Entry into Arlo](jurisdiction-manager/audit-conduct-1/batch-entry-into-arlo.md)
 * [Audit Completion](jurisdiction-manager/audit-completion.md)
-* [Supply List](jurisdiction-manager/supply-list.md)
 
 ## Audit Board
 
@@ -24,6 +23,7 @@
 * [Ballot Entry into Arlo](audit-board/ballot-entry-into-arlo-1.md)
 * [Batch Retrieval & Tally](audit-board/batch-retrieval.md)
 * [Checklists](audit-board/checklists.md)
+* [Audit Board Supply List](audit-board/supply-list.md)
 
 ## Audit Administrator
 
@@ -41,11 +41,10 @@
 
 ## Resources
 
-* [Check-In / Check-Out Station](full-manual-tally/check-in-check-out-guide.md)
 * [Batch Management](resources/batch-management.md)
-* [Space Setup](resources/space-setup.md)
+* [Space Setup](full-manual-tally/space-setup.md)
+* [Audit Roles](resources/audit-roles/README.md)
+  * [Check-In / Check-Out Station](resources/audit-roles/check-in-check-out-guide.md)
+* [Training Videos](resources/training-videos.md)
 * [Audit Report Guide](resources/audit-report-guide.md)
 * [RLA Model Legislation](resources/rla-model-legislation.md)
-* [Training Videos](resources/training-videos.md)
-* [Audit Roles](resources/audit-roles.md)
-* [Supplies Required](resources/supplies-required.md)
