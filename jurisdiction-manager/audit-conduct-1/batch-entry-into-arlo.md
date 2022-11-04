@@ -4,7 +4,7 @@ description: >-
   completed by the Jurisdiction Manager and not the audit board(s).
 ---
 
-# Batch Entry into Arlo
+# Batch Tally Entry into Arlo
 
 The tallies for each batch selected for audit must be entered into Arlo to conclude the audit. Tallies can be entered by audit boards, specified tally entry users, and/or jurisdiction managers.
 
@@ -44,18 +44,18 @@ To edit a batch already entered, select the Edit button next to the batch name. 
 
 When all batches for your jurisdiction are recorded, select Finalize Results.
 
-![](https://lh6.googleusercontent.com/abtoGsCh-jPomWUAsV7CU\_-H9oT6P5rll3x\_PZpqKkD1v8OGwQ\_vGHPwTJyV4ATlGC3y5IJStYPohaMLlTExw9ZlQLLoshuck9VXUDsAsP1s968m1EumeaPeNHWdQ2LpxiEa3Esd)
+![
+
+
+
+
+
+
+
+
+
+](https://lh6.googleusercontent.com/abtoGsCh-jPomWUAsV7CU\_-H9oT6P5rll3x\_PZpqKkD1v8OGwQ\_vGHPwTJyV4ATlGC3y5IJStYPohaMLlTExw9ZlQLLoshuck9VXUDsAsP1s968m1EumeaPeNHWdQ2LpxiEa3Esd)
 {% endtab %}
 {% endtabs %}
 
-****\
-****\
-****\
-****\
-****\
-****\
-****\
-****\
-****\
-****\
-****
+{% embed url="https://youtu.be/AE1Ji4dGHFo" %}

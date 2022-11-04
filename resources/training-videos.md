@@ -30,11 +30,9 @@ description: >-
 
 {% embed url="https://www.youtube.com/watch?index=5&list=PLvehCClJUfizPqqTmYk2oZNX1jGEkdzi7&v=io-7uEYgqzw" %}
 
+## Batch Tally Entry
 
-
-## Batch Tally
-
-Coming soon
+{% embed url="https://youtu.be/AE1Ji4dGHFo" %}
 
 ## Audit Board Batch Tally Process - Sort & Stack
 
