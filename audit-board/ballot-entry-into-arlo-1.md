@@ -24,7 +24,7 @@ Enter audit board member information. We recommend two people complete this task
 
 3\.  Click Audit First Ballot or select a ballot and click Audit Ballot to begin entering ballots.  &#x20;
 
-<figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (11) (2).png" alt=""><figcaption></figcaption></figure>
 
 #### Ballot Card Data Entry Screen Overview
 
@@ -42,11 +42,11 @@ There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Sel
    \
    If the audit board cannot agree - explain in the Add Note box.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
 
 2\.  On the verification screen, review the ballot information for accuracy and select Confirm Selections to go to the next ballot.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\.  Once all ballots have been audited, select Submit Audited Ballots.
 
