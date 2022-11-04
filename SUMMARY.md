@@ -14,7 +14,7 @@
   * [Uploading Files into Arlo](jurisdiction-manager/pre-audit-file-uploads/uploading-files-into-arlo.md)
 * [Audit Conduct](jurisdiction-manager/audit-conduct-1/README.md)
   * [Prepare Audit Materials](jurisdiction-manager/audit-conduct-1/audit-conduct.md)
-  * [Batch Entry into Arlo](jurisdiction-manager/audit-conduct-1/batch-entry-into-arlo.md)
+  * [Batch Tally Entry into Arlo](jurisdiction-manager/audit-conduct-1/batch-entry-into-arlo.md)
 * [Audit Completion](jurisdiction-manager/audit-completion.md)
 
 ## Audit Board
