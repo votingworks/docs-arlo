@@ -27,3 +27,7 @@ There are slight display differences depending on the audit type.
 ![](https://lh4.googleusercontent.com/CPqmItHfNSmNcNNFZAeZPsIeRNoLoTSrGmV6Q3\_S44\_wO4ytHPrb7f\_3O3QOVACswlaYWRGb8nBQSPAZHWR0zSiNuLxbrNQuU9RzCDdpO4n1yZDWJ2AQSUtWPKiKVRv9JJVeeGiR)
 {% endtab %}
 {% endtabs %}
+
+The Count unique sampled ballots toggle displays the raw number of ballots to be retrieved by each jurisdiction when toggled on.  When toggled off, the number of ballots represents the entire sample size, including ballots sampled more than once that only need to be retrieved once.
+
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
