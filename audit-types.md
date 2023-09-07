@@ -8,7 +8,7 @@ Consists of the retrieval of randomly selected ballots to confirm the outcome of
 
 ### **Batch Comparison**
 
-Consists of the retrieval of randomly selected batches of ballots. A batch may consist of all the ballots cast in a precinct, on a specific ballot scanner, or smaller tabulated batches. Those batches are hand tallied and counts are compared to the reported results, batch by batch, to confirm the outcome of the election.  Requires vote counts by batch. ****&#x20;
+Consists of the retrieval of randomly selected batches of ballots. A batch may consist of all the ballots cast in a precinct, on a specific ballot scanner, or smaller tabulated batches. Those batches are hand tallied and counts are compared to the reported results, batch by batch, to confirm the outcome of the election.  Requires vote counts by batch.&#x20;
 
 ### **Ballot Comparison**
 

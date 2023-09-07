@@ -12,7 +12,7 @@ After the audit begins, each jurisdiction with batches selected will receive a b
 
 To retrieve batches, refer to your batch retrieval list to determine which container is needed. Each batch retrieval list will show the batch name and the audit board selected to tally the batch. &#x20;
 
-![](<../.gitbook/assets/image (37).png>)
+<figure><img src="../.gitbook/assets/image (85).png" alt=""><figcaption></figcaption></figure>
 
 Retrieve the correct container and perform required chain of custody verification steps. Then open the container. Pull the entire batch of ballots out of the storage container and manipulate into a stack of ballots that is mostly neat.  If the container contains more than 1000 ballots, ballots should be removed from the container and sorted in manageable stacks, leaving the rest of the ballots in the container until the previous stack is tallied.
 
@@ -40,8 +40,8 @@ Count the ballots in each stack by having one member of the audit board verbally
 
 {% tab title="Read & Mark" %}
 **Prepare a Tally Sheet**\
-****\
-****For this method a tally sheet should be prepared.  The tally sheet should:
+\
+For this method a tally sheet should be prepared.  The tally sheet should:
 
 * be organized in the same order as the ballot
 * list each contest and associated choices (including write-ins when applicable) to be audited
@@ -49,8 +49,8 @@ Count the ballots in each stack by having one member of the audit board verbally
 * have space for tally marks after each choice
 
 **Tally the Votes**\
-****\
-****One audit board member reads the choice for the first contest being audited to the second audit board member who makes a tally mark on the tally sheet. Repeat for all contests being audited. Ideally, a third audit board member should observe the ballot marks and tally sheet tallies.
+\
+One audit board member reads the choice for the first contest being audited to the second audit board member who makes a tally mark on the tally sheet. Repeat for all contests being audited. Ideally, a third audit board member should observe the ballot marks and tally sheet tallies.
 
 Completing this process in groups of 20, 50, 100, or some other set number allows for verification checks throughout the process.  Once the set number is completed, add up the tally marks to ensure the same number was tallied for each contest.
 

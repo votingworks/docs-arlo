@@ -5,7 +5,7 @@ Once the participant list is uploaded, the audit admin can monitor the file uplo
 ![](<../../.gitbook/assets/image (56).png>)
 
 **Status:**\
-****\
+\
 **0/2 files uploaded -** jurisdiction has not logged in to Arlo and uploaded either file.\
 **1/2 files uploaded -** jurisdiction has only uploaded the ballot manifest.
 

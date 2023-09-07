@@ -49,7 +49,7 @@ The audit settings section provides all of the settings that were selected to dr
 
 **Risk Limit** - risk limit set by the audit administrator\
 **Random Seed** - random number generated to start the audit\
-**Online Data Entry?** - indicates whether an audit administrator selected online data entry, requiring audit boards to enter data for each ballot individually, or offline data entry, allowing the jurisdiction manager to enter sample totals ****&#x20;
+**Online Data Entry?** - indicates whether an audit administrator selected online data entry, requiring audit boards to enter data for each ballot individually, or offline data entry, allowing the jurisdiction manager to enter sample totals&#x20;
 
 ### **Audit Boards Section**
 

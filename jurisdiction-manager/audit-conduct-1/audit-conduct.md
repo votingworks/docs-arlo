@@ -12,7 +12,7 @@ Choose the number of audit boards. The audit board setup is used to divide the r
 
 ![](https://lh4.googleusercontent.com/c-dgzXgilBTpDdMOzLezyyujwBrpEL93SJQ\_ktqfENW8L\_VK5RymiXqtb\_65a-RYYOceO9vwKsChMP1ouCPyYkHzPWEJ1TPKB2\_xMDLy4R6g1YYAC0g\_O\_oDp98wunn\_LmBPNZd8)
 
-****
+
 
 **Ballot retrieval list -** a list of all of the ballots that need to be retrieved in the jurisdiction. This list should be distributed to all audit boards.
 
@@ -20,7 +20,7 @@ Choose the number of audit boards. The audit board setup is used to divide the r
 
 **Ballot labels -** ready to print ballot labels for use in ballot retrieval.  We recommend brightly colored removable labels (Avery 6479).
 
-**Audit board credentials -** a QR code and url for use by the audit boards to complete the data entry for each ballot pulled. ****&#x20;
+**Audit board credentials -** a QR code and url for use by the audit boards to complete the data entry for each ballot pulled.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (1) (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}

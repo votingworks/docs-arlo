@@ -3,7 +3,7 @@
 Once the audit is launched, the audit admin can monitor the audit progress from the Audit Progress screen.
 
 **Status:**\
-****\
+\
 **Not started -** jurisdiction has not logged in to Arlo and downloaded the ballot retrieval list. \
 **In progress -** jurisdiction has downloaded the ballot retrieval list.\
 **Complete -** all ballots have been audited.
