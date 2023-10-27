@@ -27,7 +27,7 @@
 
 ## Audit Administrator
 
-* [Account Setup](audit-administrator/hybrid-overview.md)
+* [Account Setup](audit-administrator/account-setup.md)
 * [Audit Setup](audit-administrator/ballot-manifest/README.md)
   * [Participants](audit-administrator/ballot-manifest/participants.md)
   * [Standardized Contests File](audit-administrator/ballot-manifest/standardized-contests-file.md)
