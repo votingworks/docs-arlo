@@ -1,10 +1,10 @@
 # Audit Settings
 
-In the final audit settings, select your state and enter the Election Name, designate the desired risk limit and enter the random seed.&#x20;
+In the final audit settings, your state should already be set as a default but if not, select it from the drop down. The State does populate the map in the Audit Progress Screen.  Then enter the Election Name, designate the desired risk limit, and enter the random seed.&#x20;
 
-The risk limit may be designated in state statute or rule. Be sure to verify your state's requirements
+The risk limit may be designated in state statute or rule. Be sure to verify your state's requirements.
 
-![](<../../.gitbook/assets/image (41).png>)
+<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Note:** for ballot polling audits, you'll also select how the audit boards will enter data.&#x20;
@@ -16,6 +16,6 @@ The risk limit may be designated in state statute or rule. Be sure to verify you
 
 At this point the audit is ready to begin if all jurisdictions have uploaded the required files. Check the top of the screen for jurisdiction file upload progress before selecting Save & Next.
 
-![](https://lh6.googleusercontent.com/zy62ENs9qcr5EMVGN9uERshwBhpAryMk83eEKTRjkSabVxtBjsLZE75dKHXd2j7BLYxeZH4Ss3s7ZTlTVWKVIyQA6XUkrbB5Ucrc2bxz\_CUtAo4ofuySujY0KMZsBfiZ8LiPgh4a)
+<figure><img src="../../.gitbook/assets/image (95).png" alt=""><figcaption></figcaption></figure>
 
 \

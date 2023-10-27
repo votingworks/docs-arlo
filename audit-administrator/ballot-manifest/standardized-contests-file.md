@@ -14,4 +14,4 @@ When the spreadsheet is ready, upload it into the Participants & Contests sectio
 2. Select Upload File.
 3. Select Next.
 
-![](<../../.gitbook/assets/image (23).png>)
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>

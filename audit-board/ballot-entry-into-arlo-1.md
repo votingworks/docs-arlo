@@ -46,7 +46,7 @@ There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Sel
 
 2\.  On the verification screen, review the ballot information for accuracy and select Confirm Selections to go to the next ballot.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\.  Once all ballots have been audited, select Submit Audited Ballots.
 
@@ -54,7 +54,7 @@ There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Sel
 
 4\.  Enter auditor names exactly as they were entered at the start and click Sign Off.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 Audited ballots should be resecured in a ballot container. Generally a new container is recommended but when very small numbers of ballots are retrieved, it may make more sense to return them to their original container.&#x20;
 

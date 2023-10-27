@@ -2,7 +2,11 @@
 
 Once the participant list is uploaded, the audit admin can monitor the file upload progress from the Audit Progress screen.&#x20;
 
-![](<../../.gitbook/assets/image (56).png>)
+<figure><img src="../../.gitbook/assets/image (110).png" alt=""><figcaption></figcaption></figure>
+
+Below the map on the Audit Progress screen is a list of all jurisdictions and the various stages in the upload process they've completed.
+
+<figure><img src="../../.gitbook/assets/image (87).png" alt=""><figcaption></figcaption></figure>
 
 **Status:**\
 \
@@ -18,10 +22,12 @@ Once the participant list is uploaded, the audit admin can monitor the file uplo
 
 To review the files, select the Jurisdiction Name.  Then select Download under the file name to review.
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
-Total in Manifest is the total number of ballots the jurisdiction has in their manifest. This should match their number of ballots tabulated.
+Ballots in Manifest is the total number of ballots the jurisdiction has in their manifest. This should match their number of ballots tabulated. If the expected ballots were entered into the Participant file, that colum will also be displayed with a third column showing the difference.
 
-Information on the progress screen can be sorted in many different ways, as well as downloaded into a .csv file. &#x20;
+<figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
+
+Information on the progress screen can be sorted in many different ways, as well as downloaded into a .csv file.  Sort order will be maintained when the screen is refreshed.
 
 ![](<../../.gitbook/assets/image (58).png>)

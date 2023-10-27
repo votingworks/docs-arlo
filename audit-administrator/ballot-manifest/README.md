@@ -6,7 +6,7 @@ A state or jurisdiction administrator of the election should set up the audit in
 2. Select the [audit type](../../audit-types.md).
 3. Click Create Audit.
 
-![](<../../.gitbook/assets/image (39).png>)
+<figure><img src="../../.gitbook/assets/image (3).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 See [Audit Types section ](../../audit-types.md)for information on each audit type.

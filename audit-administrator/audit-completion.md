@@ -1,8 +1,12 @@
 # Audit Completion
 
-When all audit boards have completed their ballot entry and the risk limit has been met, the Audit Progress screen will display the message “Congratulations - the audit is complete!”  Select the Download Audit Report button for a report that includes all of the audit data, including the risk measurement.
+When all audit boards or jurisdiction managers have completed their ballot or batch entry and the risk limit has been met, the audit administrator finishes the round by selecting the Finish Round x button. This allows for discrepancy review before officially completing the round.
 
-![](https://lh6.googleusercontent.com/AG5ZzITxbqU367SFe5yDToeCHAyKwYRxk1pw0FCaXusl\_8Cylt-SovgXtmTI7sQwbXf3\_9x6sthAmS1-JeptdTF4hQx34BMwMoCbVq2Zrj9auRKAju\_H33Jzg4VmmwOv-nOQ4LLr)
+<figure><img src="../.gitbook/assets/image (108).png" alt=""><figcaption></figcaption></figure>
+
+If the round completes the audit, the Audit Progress screen will display the message “Congratulations - the audit is complete!”  Select the Download Audit Report button for a report that includes all of the audit data, including the risk measurement.
+
+<figure><img src="../.gitbook/assets/image (109).png" alt=""><figcaption></figcaption></figure>
 
 ### **Additional Sampling**
 

@@ -4,7 +4,7 @@ After all setup screens are completed and all jurisdictions have uploaded their 
 
 First, take a moment to review all of the audit settings for accuracy.  Arlo provides all of the details for final review.
 
-![](<../../.gitbook/assets/image (73) (1) (1).png>)
+<figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Note**: For **ballot comparison** and **hybrid** audits, some contest names in the CVR files may not match the standardized contest names. To match contest names to the CVR files, simply click on Standardize Contest Names.
@@ -23,19 +23,17 @@ The sample size for each contest will be displayed on the screen.&#x20;
 {% tab title="Ballot Polling" %}
 For ballot polling audits, the BRAVO (Ballot-polling Risk-limiting Audits to Verify Outcome) sample size is the most efficient number of ballots the RLA math thinks is necessary to complete the audit. Some jurisdictions choose to use that sample size knowing there is a higher possibility of needing to do an additional round of sampling to attain the risk limit. Arlo provides options, allowing you to pick a larger sample size for the first round to create a smaller possibility of retrieving ballots in a second round.
 
-![](https://lh5.googleusercontent.com/5AGTIMPiihrd4xt9ECfz7mfeTDNtTwGkbjNOuTmOryyTu0KvqXD524p4iuRqSg6qs7bCm-qXMnQ8T5oFhngEvFNoeePC1Bc0b2R2hlYxp-Sb\_qRsrDpdUiZdWMSNlsgmf8PNnHa5)
+<figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Ballot Comparison" %}
-
-
-![](https://lh3.googleusercontent.com/CVsG894AF2dFP2L\_AeBoUVeS19lxRtLoUSlKMZzRquEpJKp7OPYaLd-Jc3hoTrDvw27awpip2KzVhgLqm11fiJN4vkEwZHChTP-1siTfoAMaaflFhq4p5dmnuqJY5BDy6PZshi4y)
+<figure><img src="../../.gitbook/assets/image (100).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Hybrid" %}
 For a hybrid audit, Arlo will display the number of ballots in the sample that have CVRs and are subject to the ballot comparison math and the number of ballots without CVRs and subject to the ballot polling math.
 
-![](<../../.gitbook/assets/image (77) (1).png>)
+<figure><img src="../../.gitbook/assets/image (101).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Batch Comparison" %}
@@ -59,4 +57,10 @@ When the margin of the contest being audited is close, Arlo may warn you that a 
 &#x20;
 {% endhint %}
 
-Click Launch Audit to begin the audit.
+At this point, there are two options. The first is Preview Sample.  This allows for a quick check to ensure the sample appears correct.  A list of jurisdictions and their sample size will be displayed.&#x20;
+
+<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+
+Select Launch Audit to officially begin the audit.
