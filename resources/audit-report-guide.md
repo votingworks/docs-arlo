@@ -27,7 +27,7 @@ The contests section provides the tabulated results for each contest subject to 
 
 ### **Audit Settings Section**
 
-The audit settings section provides all of the settings that were selected to drive the audit.
+The audit settings section provides all of the settings that were selected to drive the audit.&#x20;
 
 ![](https://lh6.googleusercontent.com/t276Z3sZvIJjsuKWdgk1K-rkXgg0szVZzXYglULeT9v1h\_FOxtx7rNRGhtetZwP5uA2wIJCuRKMdper33SnlN4Ce2beJdBjZ27MvYqk9IDhKqg77CfwXi0BXZEK6Yztl9knHSAKN)
 
@@ -78,9 +78,9 @@ The rounds section includes the data completed for each round of the audit.
 **End Time** - time the last audit board signed off in the round specified\
 **Audited Votes** - audited sample vote totals for the round and contest specified
 
-### **Sampled Ballots Section**
+### **Sampled Ballots/Batches Section**
 
-The sampled ballots section includes data on each ballot sampled.
+The sampled ballots/batches section includes data on each ballot/batch sampled.
 
 ![](https://lh5.googleusercontent.com/o9PCQkNfjN9GfPAPjb\_BuB9\_WIyIvRfquS5\_ZgaT6RjcIhT-Na1Ti7nW5tB5tiks2XYLai3fOXYjV0LRhBTN0hHcWGwpkZJl0NhuRs\_GGGsjfuVbCTqNvovtw3v5icb8AJ9izY\_v)
 
@@ -88,8 +88,8 @@ The sampled ballots section includes data on each ballot sampled.
 **Container** - container the ballot was retrieved from (if applicable)\
 **Tabulator** - tabulator used to scan the ballot (if applicable)\
 **Batch Name** - name of the batch the ballot was retrieved from (may include container name)\
-**Ballot Position** - position in the batch of ballots the ballot was retrieved from \
-**Imprinted ID** - tabulator imprint ID according to the voting system (if applicable)\
+**Ballot Position** - position in the batch of ballots the ballot was retrieved from (not applicable in batch comparison audits)\
+**Imprinted ID** - tabulator imprint ID according to the voting system (applicable in ballot comparison and hybrid audits)\
 **Ticket Numbers** - order in which the ballot was randomly selected\
 **Audited?** - ballot audited status.  Audited status includes:
 
@@ -97,10 +97,13 @@ The sampled ballots section includes data on each ballot sampled.
 * NOT\_AUDITED - Ballot was not audited
 * NOT\_FOUND - Ballot audit was attempted, ballot was not found.
 
-**Audit Result** - vote(s) recorded from that ballot for that contest.  In addition to candidate/proposal votes, audit result includes:
+**Audit Result** - vote(s) recorded from that ballot/batch for that contest.  In addition to candidate/proposal votes, audit result may includes:
 
 * BLANK - No votes were cast in that contest
 * CONTEST\_NOT\_ON\_BALLOT - Contest was not on the ballot audited
 
-**CVR Result** -  vote(s) as found in the voting system’s Cast Vote Record (CVR) for the ballot audited (if applicable)Discrepancy - Y indicator of a discrepancy between the audit result and CVR result\
-**Discrepancy** - Y indicator of a discrepancy between the audit result and CVR result
+**Reported Results** - votes as reported in the contest totals by batch file (applicable to batch comparison audits)\
+**CVR Result** -  vote(s) as found in the voting system’s Cast Vote Record (CVR) for the ballot audited (applicable to ballot comparison and hybrid audits)\
+**Change in Results** - differences in the audit and reported results (if applicable)\
+**Change in Margin** - differences in vote margin between the audit and reported results (if applicable)\
+**Last Edited By** - Jurisdiction Manager or Audit Board member who entered the audit results
