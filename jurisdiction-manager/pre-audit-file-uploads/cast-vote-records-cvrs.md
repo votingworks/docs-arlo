@@ -35,11 +35,15 @@ As mentioned above, we strongly encourage you to follow the instructions provide
 * ES\&S does not provide a single CVR export with all the data needed for the audit. Instead, two exports are required:&#x20;
   * Tools > Export Cast Vote Record&#x20;
   * Produce Module > Ballots - Table View > set filter to “all” > Export (this file only allows 20K records to be exported at one time and may require several exports depending on your number of ballots)&#x20;
-* The tabulator ids will be parsed from the CVR using the first four digits of the Tabulator CVR field, including any leading zeros. The tabulator names in the manifest must be four digits and include any leading zeros in order to match.
+* The tabulator IDs will be parsed from the CVR using the first four digits of the Tabulator CVR field, including any leading zeros. The tabulator names in the manifest must be four digits and include any leading zeros in order to match.
 
 **Hart:**&#x20;
 
-* When multiple tabulators are used, CVRs must be exported by tabulator and sent to VotingWorks for parsing
+* A Hart CVR export is a ZIP file containing an individual XML file for each ballot.
+* Either a single ZIP file can be provided or multiple, one for each tabulator. When multiple ZIP files are provided, the ZIP file names (with ".zip" removed) will be used as tabulator names.
+* Separate from the ZIP files, optional scanned ballot information CSVs can be provided. If provided, the "Workstation" values in them will be used as tabulator names, and the "UniqueIdentifier" values in them will be used as imprinted IDs. Otherwise, "CvrGuid" values will be used as imprinted IDs.
+* If both multiple ZIP files are provided and scanned ballot information CSVs are provided, the ZIP file names will take precedence over the "Workstation" values as tabulator names.
+* Note that tabulator names are only used if batch names in the ballot manifest are not unique.
 
 The CVR export process may be tricky the first few attempts. We are happy to review files prior to upload and encourage all users to work through this process with us well before audit day. Many jurisdictions have used their logic and accuracy testing CVR files to practice.&#x20;
 
