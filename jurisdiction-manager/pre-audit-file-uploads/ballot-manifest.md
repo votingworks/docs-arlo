@@ -18,7 +18,7 @@ Open a spreadsheet program and create a simple spreadsheet with two columns. The
 
 **​**If ballots have been further separated in a ballot container and are clearly labeled, the separation should be included in the ballot manifest. Only do this when the batches are clearly labeled. For example, if you scanned batches of ballots in sets of 200 and placed them in a folder or wrapped them with a rubber band, and that batch has a label indicating it’s batch x in container y. Simply use a comma in the spreadsheet to indicate another separation - ex “container y, batch x.”
 
-![](<../../.gitbook/assets/image (9).png>)
+![](<../../.gitbook/assets/image (9) (1).png>)
 
 ![](<../../.gitbook/assets/image (8) (1).png>)
 {% endtab %}

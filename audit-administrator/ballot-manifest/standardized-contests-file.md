@@ -8,10 +8,14 @@ A standardized contests file tells Arlo which contests to expect and their corre
 
 ![](<../../.gitbook/assets/image (73) (1).png>)
 
+{% hint style="warning" %}
+A third column tiled "Choice Names" can be added to help standardize candidate names as well.  Candidate names should be listed all in one cell like "Conine, Zach;Elliott, Bryan;Fiore, Michele;Hendrickson, Margaret;None of These Candidates" Use semi-colons to separate each name.&#x20;
+{% endhint %}
+
 When the spreadsheet is ready, upload it into the Participants & Contests section of Arlo, as follows:
 
 1. Select Browse and locate the standardized contests .csv file created.
 2. Select Upload File.
 3. Select Next.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption></figcaption></figure>

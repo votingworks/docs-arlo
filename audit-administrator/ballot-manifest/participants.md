@@ -10,7 +10,7 @@ When the spreadsheet is ready, complete the steps in the Participants section of
 2. Select Upload File.
 3. Select Next.
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
 The completion of this step allows participants to begin to upload pre-audit files into Arlo. The remaining setup tasks may be completed during the upload process and before the audit begins.
 

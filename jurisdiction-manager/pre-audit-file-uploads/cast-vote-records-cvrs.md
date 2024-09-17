@@ -36,6 +36,7 @@ As mentioned above, we strongly encourage you to follow the instructions provide
   * Tools > Export Cast Vote Record&#x20;
   * Produce Module > Ballots - Table View > set filter to “all” > Export (this file only allows 20K records to be exported at one time and may require several exports depending on your number of ballots)&#x20;
 * The tabulator IDs will be parsed from the CVR using the first four digits of the Tabulator CVR field, including any leading zeros. The tabulator names in the manifest must be four digits and include any leading zeros in order to match.
+* If Arlo is not accepting the CVR file, change the file name to cvr.csv and re-upload.&#x20;
 
 **Hart:**&#x20;
 

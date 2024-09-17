@@ -13,4 +13,8 @@ Open a spreadsheet program and create a simple spreadsheet.&#x20;
 
 ![](https://lh4.googleusercontent.com/qA7kxfwCqTCO6GC8zuhmnp-vxFNdWHm3nadD8FXx5E\_OzsuhMRU-CucmzSOqypJxz41LcImv5R14dQSYxgSScWLBJrgsKI8w6YhpN7w2SGVq8rC5Nmu2DzadFLJ9EnGhf1xsdc5Q)
 
-Enter the data for your county or jurisdiction. When you're finished, take a second to ensure the total number of batches matches your number of batches in your ballot manifest and that the candidate totals are correct.  Then save the file as a .csv file. \
+Enter the data for your county or jurisdiction. When you're finished, take a second to ensure the total number of batches matches your number of batches in your ballot manifest and that the candidate totals are correct.  Then save the file as a .csv file.&#x20;
+
+{% hint style="warning" %}
+If auditing multiple contests, the candidate name headings must also include the contest name.  Example - "House of Representatives -  Jane Doe." Both names should match what was entered by the Audit Administrator during target contest setup.
+{% endhint %}

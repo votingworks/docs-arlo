@@ -12,7 +12,7 @@ There are slight display differences depending on the audit type.
 
 {% tabs %}
 {% tab title="Ballot Polling/Ballot Comparison/Hybrid" %}
-![](<../.gitbook/assets/image (62).png>)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Batch Comparison" %}
@@ -28,7 +28,7 @@ There are slight display differences depending on the audit type.
 
 The Count unique sampled ballots toggle displays the raw number of ballots to be retrieved by each jurisdiction when toggled on.  When toggled off, the number of ballots represents the entire sample size, including ballots sampled more than once that only need to be retrieved once.
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 All but ballot polling audits will have a discrepancy column. This highlights discrepancies that the audit administrator may want to review prior to the completion of the audit. Discrepancies will only display after a jurisdiction manager or all audit boards have finalized their data entry. To review the discrepancies, select the Download Discrepancy Report button.&#x20;
 

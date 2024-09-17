@@ -15,7 +15,13 @@ First, take a moment to review all of the audit settings for accuracy.  Arlo pro
 And match the contests not found with the contest name in the CVR file.
 
 <img src="../../.gitbook/assets/image (61).png" alt="" data-size="original">&#x20;
+
+If candidate names do not match across jurisdiction manager's CVR files, you'll be prompted to Standardize Contest Choice Names.
+
+![](<../../.gitbook/assets/image (7).png>)![](<../../.gitbook/assets/image (8).png>)
 {% endhint %}
+
+
 
 The sample size for each contest will be displayed on the screen.&#x20;
 

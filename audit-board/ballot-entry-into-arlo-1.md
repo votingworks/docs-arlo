@@ -30,7 +30,7 @@ Enter audit board member information. We recommend two people complete this task
 
 There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Selections the batch name and ballot number of the ballot being audited is listed. If the ballot has not been retrieved, use the “Ballot Not Found” button. Use the “All Ballots” button to return to the full list of ballots selected for audit.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (2).png" alt=""><figcaption></figcaption></figure>
 
 1. Select the candidate(s) marked on the ballot. Both audit board members should agree. Then select Submit Selections.  \
    \
@@ -42,11 +42,11 @@ There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Sel
    \
    If the audit board cannot agree - explain in the Add Note box.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 2\.  On the verification screen, review the ballot information for accuracy and select Confirm Selections to go to the next ballot.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\.  Once all ballots have been audited, select Submit Audited Ballots.
 
@@ -54,7 +54,7 @@ There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Sel
 
 4\.  Enter auditor names exactly as they were entered at the start and click Sign Off.&#x20;
 
-<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Audited ballots should be resecured in a ballot container. Generally a new container is recommended but when very small numbers of ballots are retrieved, it may make more sense to return them to their original container.&#x20;
 
