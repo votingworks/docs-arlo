@@ -30,10 +30,10 @@ The Count unique sampled ballots toggle displays the raw number of ballots to be
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-All but ballot polling audits will have a discrepancy column. This highlights discrepancies that the audit administrator may want to review prior to the completion of the audit. Discrepancies will only display after a jurisdiction manager or all audit boards have finalized their data entry. To review the discrepancies, select the Download Discrepancy Report button.&#x20;
+All but ballot polling audits will have a discrepancy column. This highlights discrepancies that the audit administrator may want to review prior to the completion of the audit. Discrepancies will only display after a jurisdiction manager or all audit boards have finalized their data entry. To review the discrepancies, select the flag for a quick look or select the Download Discrepancy Report button for a full report.&#x20;
 
 <figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 
-The discrepancy report will identify the batch, the results from the audit, the reported results, the change in results, and the change in margin.
+The discrepancy will be displayed on screen or in the report and will identify the batch, the results from the audit, the reported results, the change in results, and the change in margin.
 
 <figure><img src="../.gitbook/assets/image (107).png" alt=""><figcaption></figcaption></figure>

@@ -30,10 +30,12 @@ Choose the number of audit boards. The audit board setup is used to divide the r
 
 **Batch tally sheets -** ready to print batch tally sheets for use in recording batch tallies. &#x20;
 
+**Stack labels** - ready to print stack labels for your labeling the stacks on your audit board tables.
+
 \
 
 
-<figure><img src="../../.gitbook/assets/image (33) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 {% endtabs %}
 

@@ -4,7 +4,11 @@ In the final audit settings, your state should already be set as a default but i
 
 The risk limit may be designated in state statute or rule. Be sure to verify your state's requirements.
 
-<figure><img src="../../.gitbook/assets/image (94).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
+
+Presentation mode may be used when entering the random seed to a public audience. Select Presentation Mode and a larger box only mean for random seed entry will open.  Select Set Random Seed to save it after it's entered.
+
+<figure><img src="../../.gitbook/assets/image (116).png" alt="" width="375"><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 **Note:** for ballot polling audits, you'll also select how the audit boards will enter data.&#x20;
