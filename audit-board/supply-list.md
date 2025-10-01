@@ -20,6 +20,7 @@ The following is our recommended supply list for **batch comparison** audit boar
 
 * [ ] Table and chairs for each audit board
 * [ ] Audit Board Batch Sheets (provided in Arlo)
+* [ ] Stack Labels (provided in Arlo)
 * [ ] List of valid write-in candidates (where applicable)
 * [ ] Voter intent guidelines
 * [ ] [Attention signs](../resources/rla-model-legislation.md)
