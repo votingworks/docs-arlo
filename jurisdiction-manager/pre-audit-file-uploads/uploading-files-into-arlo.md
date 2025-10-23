@@ -2,11 +2,11 @@
 
 Once your file(s) have been created and have been saved as .csv files, they’re ready for upload into Arlo.&#x20;
 
-[Login to Arlo](../logging-into-arlo.md)
+[Log in to Arlo](../logging-into-arlo.md)
 
-Click the Browse button and navigate to the ballot manifest .csv file that you created. Once selected, click Upload File.
+Select the Browse button and navigate to the ballot manifest .csv file that you created. Once selected, select Upload File.
 
-![](https://lh6.googleusercontent.com/kGG\_P7FDlguo8nB6C1ZRBJnqDm2oVLzvfkoSSfC\_m-0zR2-p66RlnWq70FQ8UgY74lDuUslzwRw1b-\_W9N7\_jbLY9Po9FE4xxhRI6cu4L2nexgyfvAZQiK-uiqPvI2V38JXPc\_2v)
+![](https://lh6.googleusercontent.com/kGG_P7FDlguo8nB6C1ZRBJnqDm2oVLzvfkoSSfC_m-0zR2-p66RlnWq70FQ8UgY74lDuUslzwRw1b-_W9N7_jbLY9Po9FE4xxhRI6cu4L2nexgyfvAZQiK-uiqPvI2V38JXPc_2v)
 
 ### **Additional Files**
 
@@ -20,7 +20,7 @@ Under Cast Vote Records, select your CVR File Type, then click the Browse button
 {% endtab %}
 
 {% tab title="Candidate Totals by Batch" %}
-Batch comparison audits requires an upload of candidate totals by batch.
+Batch comparison audits require an upload of candidate totals by batch.
 
 Under Candidate Totals by Batch, click the Browse button to navigate to the candidate totals by batch .csv file.  Once selected, click Upload File.
 

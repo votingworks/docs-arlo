@@ -1,8 +1,8 @@
 # Prepare Audit Materials
 
-Once the audit has been launched, each jurisdiction must login to download and print their audit materials.&#x20;
+Once the audit has been launched, each jurisdiction must log in to download and print their audit materials.&#x20;
 
-[Login to Arlo](../logging-into-arlo.md)
+[Log in to Arlo](../logging-into-arlo.md)
 
 **Download and Print your Audit Materials**
 
@@ -10,7 +10,7 @@ Once the audit has been launched, each jurisdiction must login to download and p
 {% tab title="Ballot Polling/Ballot Comparison/Hybrid" %}
 Choose the number of audit boards. The audit board setup is used to divide the retrieval and tally tasks.  When large amounts of ballots are being audited, more teams should be utilized.  One audit board can generally pull 20-25 ballots/hr.
 
-![](https://lh4.googleusercontent.com/c-dgzXgilBTpDdMOzLezyyujwBrpEL93SJQ\_ktqfENW8L\_VK5RymiXqtb\_65a-RYYOceO9vwKsChMP1ouCPyYkHzPWEJ1TPKB2\_xMDLy4R6g1YYAC0g\_O\_oDp98wunn\_LmBPNZd8)
+![](https://lh4.googleusercontent.com/c-dgzXgilBTpDdMOzLezyyujwBrpEL93SJQ_ktqfENW8L_VK5RymiXqtb_65a-RYYOceO9vwKsChMP1ouCPyYkHzPWEJ1TPKB2_xMDLy4R6g1YYAC0g_O_oDp98wunn_LmBPNZd8)
 
 
 
@@ -32,7 +32,6 @@ Choose the number of audit boards. The audit board setup is used to divide the r
 
 **Stack labels** - ready to print stack labels for your labeling the stacks on your audit board tables.
 
-\
 
 
 <figure><img src="../../.gitbook/assets/image (111).png" alt=""><figcaption></figcaption></figure>

@@ -7,7 +7,7 @@ A room or facility where ballots can be reviewed securely is important.
 * Ballot container check-in/out station (2 chairs)
 * Each audit board (2 chairs)
 * Any additional review stations as required
-* A sign-in station for public and credential observers (1 chair)
+* A sign-in station for public and credentialed observers (1 chair)
 
 Supplies needed for the room:
 

@@ -4,15 +4,16 @@ Once the audit is launched, the audit admin can monitor the audit progress from 
 
 **Status:**\
 \
-**Not started -** jurisdiction has not logged in to Arlo and downloaded the ballot retrieval list. \
-**In progress -** jurisdiction has downloaded the ballot retrieval list.\
-**Complete -** all ballots have been audited.
+**Not logged in -** jurisdiction has not logged in to Arlo and downloaded the ballot/batch retrieval list.\
+**Logged in** -  jurisdiction has  logged in to Arlo but has not downloaded the ballot/batch retrieval list.\
+**In progress -** jurisdiction has downloaded the ballot/batch retrieval list.\
+**Complete -** all ballots/batches have been audited.
 
 There are slight display differences depending on the audit type.
 
 {% tabs %}
 {% tab title="Ballot Polling/Ballot Comparison/Hybrid" %}
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
 
 {% tab title="Batch Comparison" %}
@@ -22,7 +23,7 @@ There are slight display differences depending on the audit type.
 {% tab title="Full Hand Tally" %}
 
 
-![](https://lh4.googleusercontent.com/CPqmItHfNSmNcNNFZAeZPsIeRNoLoTSrGmV6Q3\_S44\_wO4ytHPrb7f\_3O3QOVACswlaYWRGb8nBQSPAZHWR0zSiNuLxbrNQuU9RzCDdpO4n1yZDWJ2AQSUtWPKiKVRv9JJVeeGiR)
+![](https://lh4.googleusercontent.com/CPqmItHfNSmNcNNFZAeZPsIeRNoLoTSrGmV6Q3_S44_wO4ytHPrb7f_3O3QOVACswlaYWRGb8nBQSPAZHWR0zSiNuLxbrNQuU9RzCDdpO4n1yZDWJ2AQSUtWPKiKVRv9JJVeeGiR)
 {% endtab %}
 {% endtabs %}
 
@@ -30,7 +31,7 @@ The Count unique sampled ballots toggle displays the raw number of ballots to be
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-All but ballot polling audits will have a discrepancy column. This highlights discrepancies that the audit administrator may want to review prior to the completion of the audit. Discrepancies will only display after a jurisdiction manager or all audit boards have finalized their data entry. To review the discrepancies, select the flag for a quick look or select the Download Discrepancy Report button for a full report.&#x20;
+All but ballot polling audits will have a discrepancy column. This highlights discrepancies that the audit administrator may want to review prior to the completion of the audit. Discrepancies will only display after a jurisdiction manager or all audit boards have finalized their data entry unless it's a single jurisdiction audit. To review the discrepancies, select the flag for a quick look or select the Download Discrepancy Report button for a full report.&#x20;
 
 <figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 

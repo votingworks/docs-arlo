@@ -12,7 +12,7 @@ To create tally entry accounts for audit boards or specified tally entry users, 
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-The Jurisdiction Manager should provide the Tally Entry User(s) with the login link displayed on the screen (each link is unique to the jurisdiction). Then the Tally Entry User(s) should Log In by entering their name(s) and party affiliation (if required).  A login code will be provided, the Jurisdiction Manager should enter that code to authenticate the Tally Entry User(s) by selecting Enter Login Code, entering the code, and selecting Confirm to complete the login process.
+The Jurisdiction Manager should provide the Tally Entry User(s) with the login link displayed on the screen (each link is unique to the jurisdiction). Then the Tally Entry User(s) should log in by entering their name(s) and party affiliation (if required).  A login code will be provided, the Jurisdiction Manager should enter that code to authenticate the Tally Entry User(s) by selecting Enter Login Code, entering the code, and selecting Confirm to complete the login process.
 
 <figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>                                    Jurisdiction Manager                                                                                         Tally Entry User       </p></figcaption></figure>
 
@@ -38,7 +38,7 @@ When the data entry window appears, enter the counts for each batch. Batch Type 
 
 Select Save Batch after you are done entering data for each batch. The entered batch will appear on the batch list on screen.&#x20;
 
-![](https://lh6.googleusercontent.com/XUwl\_lhfipOF626glZmOZs4Rrs-f-wDDufaz-NgJ5Dmn9jk2j\_rbDhmNDPIxQhoQzBeoS2e64c5WJa\_Wxne9RtxCGSJZQgEz6tyx9X-5NHJIN-0in6kxIl4meoMl5kAhIeQyfDD2)
+![](https://lh6.googleusercontent.com/XUwl_lhfipOF626glZmOZs4Rrs-f-wDDufaz-NgJ5Dmn9jk2j_rbDhmNDPIxQhoQzBeoS2e64c5WJa_Wxne9RtxCGSJZQgEz6tyx9X-5NHJIN-0in6kxIl4meoMl5kAhIeQyfDD2)
 
 To edit a batch already entered, select the Edit button next to the batch name.  Use the +Add batch button to record the next batch.&#x20;
 
@@ -54,7 +54,7 @@ When all batches for your jurisdiction are recorded, select Finalize Results.
 
 
 
-](https://lh6.googleusercontent.com/abtoGsCh-jPomWUAsV7CU\_-H9oT6P5rll3x\_PZpqKkD1v8OGwQ\_vGHPwTJyV4ATlGC3y5IJStYPohaMLlTExw9ZlQLLoshuck9VXUDsAsP1s968m1EumeaPeNHWdQ2LpxiEa3Esd)
+](https://lh6.googleusercontent.com/abtoGsCh-jPomWUAsV7CU_-H9oT6P5rll3x_PZpqKkD1v8OGwQ_vGHPwTJyV4ATlGC3y5IJStYPohaMLlTExw9ZlQLLoshuck9VXUDsAsP1s968m1EumeaPeNHWdQ2LpxiEa3Esd)
 {% endtab %}
 {% endtabs %}
 

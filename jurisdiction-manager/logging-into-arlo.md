@@ -9,7 +9,7 @@ description: >-
 
 Logging into Arlo will be required to upload audit files, download audit materials, and obtain your jurisdiction's audit report. &#x20;
 
-To login to Arlo:
+To log in to Arlo:
 
 1. Using Chrome or Safari as your browser, go to [https://arlo.voting.works/](https://arlo.voting.works/).
 2. Enter your email address.
@@ -19,8 +19,8 @@ To login to Arlo:
 
 4\.  Check your email for a new email with a subject “Welcome to Arlo - Use the Code in this Email to Log In” - enter the verification code. _**This email comes from**_ [_**rla@vx.support,**_ ](mailto:rla@vx.support)_**be sure to add this email address to your contacts, safe sender, or whitelist.**_
 
-![](https://lh4.googleusercontent.com/D5neWVCWcYJad45Q32lBybm\_IIJmXMDmRr3e6y-NXK-2nj70pPRdUEErjqSGgDpKxrkHxDmIfz6RzNZFNl4Sy3mUSs5CUpf9jrw\_WuURF3QdHCnsUrSvK7N8m8ifYkOTMx4tsrDF)
+![](https://lh4.googleusercontent.com/D5neWVCWcYJad45Q32lBybm_IIJmXMDmRr3e6y-NXK-2nj70pPRdUEErjqSGgDpKxrkHxDmIfz6RzNZFNl4Sy3mUSs5CUpf9jrw_WuURF3QdHCnsUrSvK7N8m8ifYkOTMx4tsrDF)
 
 5\.  Select your audit (when applicable).
 
-![](https://lh6.googleusercontent.com/yKf4vzFwCHCtQyNJKAAlzDhyzDuXtxOotBvf\_DBTx-Ivu6i71SDQRVpyUU4Uk\_s0oXicb5xnV8lXoVShm6YLEEwwIhxSk2CHPQla8X8v1hrTRh9nOySu3hg4A5OhRFJ0kttU0WcR)
+![](https://lh6.googleusercontent.com/yKf4vzFwCHCtQyNJKAAlzDhyzDuXtxOotBvf_DBTx-Ivu6i71SDQRVpyUU4Uk_s0oXicb5xnV8lXoVShm6YLEEwwIhxSk2CHPQla8X8v1hrTRh9nOySu3hg4A5OhRFJ0kttU0WcR)

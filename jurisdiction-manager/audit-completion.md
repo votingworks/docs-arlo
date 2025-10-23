@@ -6,4 +6,4 @@ When all jurisdictions have completed their ballot/batch entry and the risk limi
 
 ### **Additional Sampling**
 
-If the risk limit was not met after all ballots have been audited in each participating jurisdiction, Arlo will immediately escalate to an additional round of sampling. Once the audit administrator has started the next round, a new ballot retrieval list, placeholders, labels, and audit board credentials will be generated for each jurisdiction required to retrieve more ballots.&#x20;
+If the risk limit was not met after all ballots have been audited in each participating jurisdiction, Arlo will escalate to an additional round of sampling. Once the audit administrator has started the next round, a new ballot retrieval list, placeholders, labels, and audit board credentials will be generated for each jurisdiction required to retrieve more ballots.&#x20;

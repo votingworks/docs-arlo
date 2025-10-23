@@ -6,7 +6,7 @@ description: >-
 
 # Ballot Entry into Arlo
 
-The ballot mark for each ballot selected for audit must be entered into Arlo to conclude the audit. Arlo is flexible and allows the audit board to enter ballots as they are retrieved or the system allows you to skip and return to ballots that have not yet been retrieved.\
+The ballot mark(s) for each ballot selected for audit must be entered into Arlo to conclude the audit. Arlo is flexible and allows the audit board to enter ballots as they are retrieved or the system allows you to skip and return to ballots that have not yet been retrieved.\
 \
 Many jurisdictions use a [tally sheet](https://docs.google.com/document/d/1CGAXmNSlCCXtUOYWMEby9zrxUXDZLkReqhRWg-Or0SI/edit?usp=sharing) to record the votes on the retrieved ballots prior to data entry into Arlo.
 
@@ -46,7 +46,7 @@ There is a Ballot Card Data Entry screen for each ballot.  Under Audit Board Sel
 
 2\.  On the verification screen, review the ballot information for accuracy and select Confirm Selections to go to the next ballot.
 
-<figure><img src="../.gitbook/assets/image (2) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 3\.  Once all ballots have been audited, select Submit Audited Ballots.
 

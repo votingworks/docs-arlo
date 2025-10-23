@@ -10,7 +10,8 @@ Below the map on the Audit Progress screen is a list of all jurisdictions and th
 
 **Status:**\
 \
-**0/2 files uploaded -** jurisdiction has not logged in to Arlo and uploaded either file.\
+**Not logged in -** jurisdiction has not logged in to Arlo and uploaded either file.\
+**Logged in -** jurisdiction has logged in to Arlo but not uploaded either file.\
 **1/2 files uploaded -** jurisdiction has only uploaded the ballot manifest.
 
 {% hint style="warning" %}
@@ -24,7 +25,7 @@ To review the files, select the Jurisdiction Name.  Then select Download under t
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-Ballots in Manifest is the total number of ballots the jurisdiction has in their manifest. This should match their number of ballots tabulated. If the expected ballots were entered into the Participant file, that colum will also be displayed with a third column showing the difference.
+Ballots in Manifest is the total number of ballots the jurisdiction has in their manifest. This should match their number of ballots tabulated. If the expected ballots were entered into the Participant file, that column will also be displayed with a third column showing the difference.
 
 <figure><img src="../../.gitbook/assets/image (88).png" alt=""><figcaption></figcaption></figure>
 

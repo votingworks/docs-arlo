@@ -22,4 +22,4 @@ Audit board user credentials are set up by jurisdiction managers by [selecting t
 
 ### Tally Entry
 
-In batch comparison audits, the audit board may not be designated to enter batch tallies into Arlo. [Tally entry user account(s)](jurisdiction-manager/audit-conduct-1/batch-entry-into-arlo.md) can be created as needed to enter batch tallies.  The Jurisdiction Manager may also enter batch tallies.
+In batch comparison audits, the audit board may not be designated to enter batch tallies into Arlo. [Tally entry user account(s)](jurisdiction-manager/audit-conduct-1/batch-entry-into-arlo.md) can be created as needed to enter batch tallies.  The jurisdiction manager may also enter batch tallies.

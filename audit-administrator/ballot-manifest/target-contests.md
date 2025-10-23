@@ -10,14 +10,20 @@ Write-in candidates should also be included if any were awarded votes. Generally
 \
 The total ballot cards cast _**should be the total number of ballots in your ballot manifest**_, even ballots that do not contain the contest.
 
+{% hint style="warning" %}
+**Note:** for **hybrid** audits, the Contest Name field will be a drop down menu populated from the standardized contest file. &#x20;
+
+For **batch comparison** audits, the Names of Candidates/Choices will drive the required candidate headers in the contest totals by batch file. The [candidate totals by batch file'](../../jurisdiction-manager/pre-audit-file-uploads/candidate-totals-by-batch.md)s headers must match the candidate names entered at this step.
+{% endhint %}
+
 <figure><img src="../../.gitbook/assets/image (92).png" alt=""><figcaption></figcaption></figure>
 
 If a contest has more than two choices, select Add a new candidate/choice to add more lines.
 
 {% hint style="warning" %}
-**Note:** for **hybrid** audits, the Contest Name field will be a drop down menu populated from the standardized contest file. &#x20;
+**Note:** Batch comparison audit setup also includes a box for "pending ballots." Include the number of pending ballots in rare circumstances where not all ballots can be included prior to the audit start (i.e. a court order, problems in processing, etc.). Consult with a VotingWorks support person before using this feature.
 
-For **batch comparison** audits, the Names of Candidates/Choices will drive the required candidate headers in the contest totals by batch file. The [candidate totals by batch file'](../../jurisdiction-manager/pre-audit-file-uploads/candidate-totals-by-batch.md)s headers must match the candidate names entered at this step.
+![](<../../.gitbook/assets/image (1).png>)
 {% endhint %}
 
 The last step in setting up a targeted contest is to select which jurisdictions have that contest on the ballot.&#x20;

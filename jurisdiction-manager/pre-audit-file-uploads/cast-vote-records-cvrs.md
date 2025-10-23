@@ -32,7 +32,7 @@ As mentioned above, we strongly encourage you to follow the instructions provide
 
 **ES\&S:**&#x20;
 
-* ES\&S does not provide a single CVR export with all the data needed for the audit. Instead, two exports are required:&#x20;
+* Newer versions of ES\&S software include everything needed in the CVR file. Older versions of ES\&S require two exports:&#x20;
   * Tools > Export Cast Vote Record&#x20;
   * Produce Module > Ballots - Table View > set filter to “all” > Export (this file only allows 20K records to be exported at one time and may require several exports depending on your number of ballots)&#x20;
 * The tabulator IDs will be parsed from the CVR using the first four digits of the Tabulator CVR field, including any leading zeros. The tabulator names in the manifest must be four digits and include any leading zeros in order to match.
