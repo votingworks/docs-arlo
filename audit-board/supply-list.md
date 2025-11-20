@@ -9,7 +9,7 @@ The following is our recommended supply list for **ballot polling** and **ballot
 * [ ] [Tally sheets](https://docs.google.com/document/d/1CGAXmNSlCCXtUOYWMEby9zrxUXDZLkReqhRWg-Or0SI/edit?usp=sharing)
 * [ ] List of valid write-in candidates (where applicable)
 * [ ] Voter intent guidelines
-* [ ] [Attention signs](../resources/rla-model-legislation.md)
+* [ ] [Attention signs](https://docs.google.com/document/d/1Vz3hM-Imln-KcdW9LJPiADaxGqDSE55vqsw_eI4URkE/edit?usp=sharing)
 * [ ] Sortkwik and/or rubber fingers
 * [ ] Device to open containers
 * [ ] Materials to reseal containers
@@ -23,7 +23,7 @@ The following is our recommended supply list for **batch comparison** audit boar
 * [ ] Stack Labels (provided in Arlo)
 * [ ] List of valid write-in candidates (where applicable)
 * [ ] Voter intent guidelines
-* [ ] [Attention signs](../resources/rla-model-legislation.md)
+* [ ] [Attention signs](https://docs.google.com/document/d/1Vz3hM-Imln-KcdW9LJPiADaxGqDSE55vqsw_eI4URkE/edit?usp=sharing)
 * [ ] File folders or envelopes for ballots that need review (when a review board is utilized)
 * [ ] Sortkwik and/or rubber fingers
 * [ ] Device to open containers
