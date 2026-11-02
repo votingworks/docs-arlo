@@ -12,7 +12,7 @@ Creating a ballot manifest is slightly different [depending on the type of RLA](
 {% tab title="Ballot Polling/Batch Comparison" %}
 Open a spreadsheet program and create a simple spreadsheet with two columns. The first column titled “Batch Name” is for your container/batch name and the second column titled “Number of Ballots” is where you indicate the number of ballots in each container. Enter the data for your county or jurisdiction. When you're finished, take a second to ensure the total number of ballots matches your number of ballots cast.  Then save the file as a .csv file.
 
-![](https://lh3.googleusercontent.com/X3J\_2kW5iuxOJ560YljIUhw40KPhto4m8JH6ceq7SFGbnqJFZCzj\_F2D5xA2oVWEduWIlnPQ1gsgXvhR9XIrGOegZOkNYsFZvkPDhROm7TlHIH84Ralrn18uf3w0jSDffkVm1UNf)
+![](https://lh3.googleusercontent.com/X3J_2kW5iuxOJ560YljIUhw40KPhto4m8JH6ceq7SFGbnqJFZCzj_F2D5xA2oVWEduWIlnPQ1gsgXvhR9XIrGOegZOkNYsFZvkPDhROm7TlHIH84Ralrn18uf3w0jSDffkVm1UNf)
 
 **Ballots Further Separated in the Container​**
 
@@ -55,7 +55,6 @@ Enter the data for your county or jurisdiction. When you're finished, take a sec
 
 The number of ballots stored in each container varies by state and jurisdiction. What’s important when creating the ballot manifest is to make sure the number being used is independent of the tabulator. The number of ballots tabulated is generally the right number but that number should have been independently verified on election night or after the election via a reconciliation process that includes comparing it to the number of voters.​​
 
-All voted ballots should be included. Don’t forget provisional, UOCAVA, absentee, or other ballots counted after election day as required by law. \
-
+All voted ballots should be included. Don’t forget provisional, UOCAVA, absentee, or other ballots counted after election day as required by law. <br>
 
 {% embed url="https://www.youtube.com/watch?index=2&list=PLvehCClJUfizPqqTmYk2oZNX1jGEkdzi7&v=v_kWNgkiSjc" %}

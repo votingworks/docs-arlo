@@ -34,8 +34,7 @@ The last step in setting up a targeted contest is to select which jurisdictions 
 
 <figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
 
-If more than one contest is targeted for audit, use the Add another targeted contest button to add additional targeted contests before selecting Save & Next.\
-
+If more than one contest is targeted for audit, use the Add another targeted contest button to add additional targeted contests before selecting Save & Next.<br>
 {% endtab %}
 
 {% tab title="Ballot Comparison" %}

@@ -53,4 +53,4 @@ The CVR export process may be tricky the first few attempts. We are happy to rev
 <table><thead><tr><th width="171">Arlo</th><th width="150">ClearBallot</th><th width="150">Dominion</th><th width="150">ES&#x26;S</th><th>Hart</th></tr></thead><tbody><tr><td>CVR Unique ID</td><td>RowNumber</td><td>CvrNumber</td><td>Cast Vote Record</td><td>CvrGuid</td></tr><tr><td>Tabulator</td><td>ScanComputerName</td><td>TabulatorNum</td><td>Tabulator CVR (first four characters)</td><td>Each export must be for one tabulator</td></tr><tr><td>Batch</td><td>BoxID</td><td>BatchId</td><td>Batch</td><td>BatchNumber</td></tr><tr><td>Ballot Number</td><td>BoxPosition</td><td>RecordId</td><td>Inferred from row order in the file</td><td>BatchSequence</td></tr><tr><td>Imprinted ID</td><td>BallotID</td><td>ImprintedId</td><td>Tabulator CVR</td><td>CvrGuid</td></tr></tbody></table>
 
 \
-\
+<br>

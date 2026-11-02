@@ -30,8 +30,7 @@ For each ballot: one audit board member picks up a single ballot from the stack 
 
 Count the ballots in each stack by having one member of the audit board verbally count the ballot while handing it to the other member for verification. Count the ballots in groups of 10, stacking the groups at right angles to each other, so you can easily count the complete groups when you are done. (For instance, if you have seven groups of 10 ballots each plus an extra 3 ballots, the total tally would be 73.) Record the total tally for each candidate on the Audit Board Batch Tally Sheet.
 
-\
-
+<br>
 
 <figure><img src="../.gitbook/assets/image (113).png" alt=""><figcaption></figcaption></figure>
 
@@ -59,10 +58,9 @@ Completing this process in groups of 20, 50, 100, or some other set number allow
 **Complete Audit Board Batch Tally Sheet**
 
 When all ballots are tallied, total the tally marks and complete the Audit Board Batch Tally Sheet.\
-\
+<br>
 
-
-![](https://lh4.googleusercontent.com/RAv\_P3xI4mMEh9zYgetFmaHgLnzWT1mdKfKgIxRtZrBtFtz5N3Es8bzNbj0\_d0oqESZo9dv6GRkjxwFsgwsQ7C4\_zB-0hhNV3\_pi01N249a9pOKh-506BwCEOHxdWcTk0daGXnWkTvQxB\_0oz1I1uw)
+![](https://lh4.googleusercontent.com/RAv_P3xI4mMEh9zYgetFmaHgLnzWT1mdKfKgIxRtZrBtFtz5N3Es8bzNbj0_d0oqESZo9dv6GRkjxwFsgwsQ7C4_zB-0hhNV3_pi01N249a9pOKh-506BwCEOHxdWcTk0daGXnWkTvQxB_0oz1I1uw)
 {% endtab %}
 {% endtabs %}
 

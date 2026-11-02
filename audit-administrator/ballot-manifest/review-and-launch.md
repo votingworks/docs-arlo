@@ -9,8 +9,7 @@ First, take a moment to review all of the audit settings for accuracy.  Arlo pro
 {% hint style="warning" %}
 **Note**: For **ballot comparison** and **hybrid** audits, some contest names in the CVR files may not match the standardized contest names. To match contest names to the CVR files, simply click on Standardize Contest Names.
 
-![](<../../.gitbook/assets/image (72) (1).png>)\
-
+![](<../../.gitbook/assets/image (72) (1).png>)<br>
 
 And match the contests not found with the contest name in the CVR file.
 
@@ -45,7 +44,7 @@ For a hybrid audit, Arlo will display the number of ballots in the sample that h
 {% tab title="Batch Comparison" %}
 For a batch comparison audit, Arlo will display the sample size in number of batches.
 
-![](https://lh4.googleusercontent.com/YXUZ9aycdWcAJTTKFa3a8qE3Ut76pAMr2UV8daZe-qrt2UPyA1gPxxG9IC8bMNpVKDeA6Lln5qu-8a4aDD2Wc81OXXZIlQcwPtrW\_UTPkCjKYS1kNNGhLWHV5GlcS8Uim1mXOw3G)
+![](https://lh4.googleusercontent.com/YXUZ9aycdWcAJTTKFa3a8qE3Ut76pAMr2UV8daZe-qrt2UPyA1gPxxG9IC8bMNpVKDeA6Lln5qu-8a4aDD2Wc81OXXZIlQcwPtrW_UTPkCjKYS1kNNGhLWHV5GlcS8Uim1mXOw3G)
 {% endtab %}
 {% endtabs %}
 
@@ -63,10 +62,33 @@ When the margin of the contest being audited is close, Arlo may warn you that a 
 &#x20;
 {% endhint %}
 
-At this point, there are two options. The first is Preview Sample.  This allows for a quick check to ensure the sample appears correct.  A list of jurisdictions and their sample size will be displayed.&#x20;
+**Sharing Audit Input Files**
 
-<figure><img src="../../.gitbook/assets/image (104).png" alt=""><figcaption></figcaption></figure>
+Before launching the audit, audit administrators can download the audit input files and their hashes to share with the public. Select \[button name] to download the files, then select \[button name] to download their hashes.
+
+A hash is a unique digital fingerprint of a file. Anyone who receives a copy of an audit input file can calculate its hash and compare it to the published hash. If the two match, the file has not been changed since it was uploaded to Arlo.
+
+**Preview Sample**
+
+Before launching, select Preview Sample to check that the sample looks correct. Arlo will show each participating jurisdiction and its sample size: ballots for ballot polling, ballot comparison, and hybrid audits, or batches for batch comparison audits.
+
+Use the preview to make sure that:
+
+* Every jurisdiction taking part in the audit is listed.
+* Each sample size looks reasonable for that jurisdiction’s number of ballots.
+
+Previewing does not launch the audit. If something looks wrong, go back, fix it, and preview again.
+
+**Launching the Audit**
+
+When everything looks correct, select Launch Audit to begin the audit.
+
+Once the audit is launched, nothing in Audit Setup can be changed. Review all settings, files, and the sample preview carefully before launching.
+
+After launch, Arlo creates the round one audit materials for each jurisdiction, including ballot retrieval lists, placeholders, labels, and audit board credentials. Jurisdiction managers can download these from their Arlo accounts, and the audit administrator can track progress from the Audit Progress screen.
 
 <figure><img src="../../.gitbook/assets/image (103).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2026-10-30 at 12.17.39 PM.png" alt=""><figcaption></figcaption></figure>
 
 Select Launch Audit to officially begin the audit.

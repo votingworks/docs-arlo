@@ -83,7 +83,19 @@ The rounds section includes the data completed for each round of the audit.
 
 The sampled ballots/batches section includes data on each ballot/batch sampled.
 
-![](https://lh5.googleusercontent.com/o9PCQkNfjN9GfPAPjb_BuB9_WIyIvRfquS5_ZgaT6RjcIhT-Na1Ti7nW5tB5tiks2XYLai3fOXYjV0LRhBTN0hHcWGwpkZJl0NhuRs_GGGsjfuVbCTqNvovtw3v5icb8AJ9izY_v)
+#### Ballot Comparison Example&#x20;
+
+<figure><img src="../.gitbook/assets/sampled-ballots-comparison-example-screenshot.png" alt=""><figcaption></figcaption></figure>
+
+#### Ballot Polling Example&#x20;
+
+<figure><img src="../.gitbook/assets/sampled-ballots-polling-example-screenshot (1) (1).png" alt=""><figcaption></figcaption></figure>
+
+#### Batch Comparison Example&#x20;
+
+<figure><img src="../.gitbook/assets/sampled-ballots-polling-example-screenshot (1) (2).png" alt=""><figcaption></figcaption></figure>
+
+#### Report Columns and Defintions
 
 **Jurisdiction Name** - name of the ballot’s jurisdiction\
 **Container** - container the ballot was retrieved from (if applicable)\
@@ -98,13 +110,13 @@ The sampled ballots/batches section includes data on each ballot/batch sampled.
 * NOT\_AUDITED - Ballot was not audited
 * NOT\_FOUND - Ballot audit was attempted, ballot was not found.
 
-**Audit Result** - vote(s) recorded from that ballot/batch for that contest.  In addition to candidate/proposal votes, audit result may includes:
+**Reported Results** - votes as reported in the contest totals by batch file (applicable to batch comparison audits)\
+**CVR Result** - vote(s) as found in the voting system’s Cast Vote Record (CVR) for the ballot audited (applicable to ballot comparison and hybrid audits)\
+**Audit Result** - vote(s) recorded from that ballot/batch for that contest. In addition to candidate/proposal votes, audit result may include:
 
 * BLANK - No votes were cast in that contest
 * CONTEST\_NOT\_ON\_BALLOT - Contest was not on the ballot audited
 
-**Reported Results** - votes as reported in the contest totals by batch file (applicable to batch comparison audits)\
-**CVR Result** -  vote(s) as found in the voting system’s Cast Vote Record (CVR) for the ballot audited (applicable to ballot comparison and hybrid audits)\
-**Change in Results** - differences in the audit and reported results (if applicable)\
-**Change in Margin** - differences in vote margin between the audit and reported results (if applicable)\
+**Change in Results** - differences between the reported and audited results (if applicable)\
+**Change in Margin** - differences in vote margin between the reported and audited results (if applicable)\
 **Last Edited By** - Jurisdiction Manager or Audit Board member who entered the audit results
