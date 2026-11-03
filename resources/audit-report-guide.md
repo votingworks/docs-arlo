@@ -43,8 +43,9 @@ The audit settings section provides all of the settings that were selected to dr
 
 * [SUPERSIMPLE](https://www.usenix.org/legacy/events/evtwote10/tech/full_papers/Stark.pdf) - Ballot Comparison
 * [Card-Style Data](https://dl.acm.org/doi/full/10.1145/3457907) - Ballot Comparison
-* [BRAVO](https://www.usenix.org/system/files/conference/evtwote12/evtwote12-final27.pdf) - Ballot Polling type
-* [Minerva](https://arxiv.org/pdf/2008.02315.pdf) - Ballot Polling type
+* [BRAVO](https://www.usenix.org/system/files/conference/evtwote12/evtwote12-final27.pdf) - Ballot Polling&#x20;
+* [Minerva](https://arxiv.org/pdf/2008.02315.pdf) - Ballot Polling&#x20;
+* [PROVIDENCE](https://www.usenix.org/system/files/usenixsecurity23-broadrick.pdf) - Ballot Polling&#x20;
 * [SUITE](https://arxiv.org/pdf/1809.04235.pdf) - Ballot Comparison & Ballot Polling Hybrid
 * [MACRO](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1443314) - Batch Comparison
 

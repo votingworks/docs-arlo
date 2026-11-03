@@ -8,7 +8,7 @@
 
 * [Logging into Arlo](jurisdiction-manager/logging-into-arlo.md)
 * [Pre-Audit Files](jurisdiction-manager/pre-audit-file-uploads/README.md)
-  * [Ballot Manifest](jurisdiction-manager/pre-audit-file-uploads/ballot-manifest.md)
+  * [Ballot Manifests](jurisdiction-manager/pre-audit-file-uploads/ballot-manifest.md)
   * [Cast Vote Records (CVRs)](jurisdiction-manager/pre-audit-file-uploads/cast-vote-records-cvrs.md)
   * [Candidate Totals by Batch](jurisdiction-manager/pre-audit-file-uploads/candidate-totals-by-batch.md)
   * [Uploading Files into Arlo](jurisdiction-manager/pre-audit-file-uploads/uploading-files-into-arlo.md)

@@ -26,6 +26,12 @@ If a contest has more than two choices, select Add a new candidate/choice to add
 ![](<../../.gitbook/assets/image (1).png>)
 {% endhint %}
 
+{% hint style="warning" %}
+&#x20;**Contests Subject to Runoff Laws:** For these contests, check the Runoff Law box when entering the contest. Only check this box when auditing a contest that has advanced to a runoff.
+
+<img src="../../.gitbook/assets/Screenshot 2026-10-30 at 2.56.30 PM.png" alt="" data-size="original">
+{% endhint %}
+
 The last step in setting up a targeted contest is to select which jurisdictions have that contest on the ballot.&#x20;
 
 1. Select Select Jurisdictions

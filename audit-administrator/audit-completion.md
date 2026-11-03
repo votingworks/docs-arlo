@@ -12,4 +12,8 @@ If the round completes the audit, the Audit Progress screen will display the mes
 
 If the risk limit was not met after all ballots have been audited, Arlo will immediately escalate to an additional round of sampling. A new ballot retrieval list, placeholders, labels, and audit board credentials will be generated for each jurisdiction required to retrieve more ballots. Use the Start round x button to start the next round.
 
+{% hint style="info" %}
+For Ballot Polling audits using Providence math, a new seed number will need to be drawn and entered for each additional round of sampling.&#x20;
+{% endhint %}
+
 <figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
