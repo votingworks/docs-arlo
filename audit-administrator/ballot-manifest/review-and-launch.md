@@ -2,7 +2,9 @@
 
 After all setup screens are completed and all jurisdictions have uploaded their files, it is time to launch the audit. &#x20;
 
-First, take a moment to review all of the audit settings for accuracy.  Arlo provides all of the details for final review.
+{% hint style="danger" %}
+**Review all of audit settings** for accuracy.  Arlo provides all of the details for final review.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (96).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,7 +28,9 @@ The sample size for each contest will be displayed on the screen.&#x20;
 
 {% tabs %}
 {% tab title="Ballot Polling" %}
-For ballot polling audits, the BRAVO (Ballot-polling Risk-limiting Audits to Verify Outcome) sample size is the most efficient number of ballots the RLA math thinks is necessary to complete the audit. Some jurisdictions choose to use that sample size knowing there is a higher possibility of needing to do an additional round of sampling to attain the risk limit. Arlo provides options, allowing you to pick a larger sample size for the first round to create a smaller possibility of retrieving ballots in a second round.
+Arlo lists the most efficient sample size first. This is the smallest number of ballots that could confirm the reported outcome, so it’s the least work in the first round. It also has the highest chance that the audit will escalate to another round of sampling.
+
+Arlo also offers larger options. They require more ballots up front, but they make it more likely that the audit will finish in a single round. Arlo shows the probability of completing in one round next to each option.
 
 <figure><img src="../../.gitbook/assets/image (98).png" alt=""><figcaption></figcaption></figure>
 {% endtab %}
@@ -62,15 +66,15 @@ When the margin of the contest being audited is close, Arlo may warn you that a 
 &#x20;
 {% endhint %}
 
-**Sharing Audit Input Files**
+#### **Jurisdiction Hashed Files**
 
-Before launching the audit, audit administrators can download the audit input files and their hashes to share with the public. Select \[button name] to download the files, then select \[button name] to download their hashes.
+Before launching the audit, audit administrators can download the audit input files and their hashes to share with the public. See the Arlo screenshot below of the **"Download Jurisdiction Files for Sharing" button**.
 
 A hash is a unique digital fingerprint of a file. Anyone who receives a copy of an audit input file can calculate its hash and compare it to the published hash. If the two match, the file has not been changed since it was uploaded to Arlo.
 
-**Preview Sample**
+#### **Preview Sample**
 
-Before launching, select Preview Sample to check that the sample looks correct. Arlo will show each participating jurisdiction and its sample size: ballots for ballot polling, ballot comparison, and hybrid audits, or batches for batch comparison audits.
+Before launching, select Preview Sample to check that the sample looks correct. Arlo will show each participating jurisdiction and its sample size: ballots for ballot polling, ballot comparison, and hybrid audits, or batches for batch comparison audits. See the Arlo screenshot below of the **"Sample Preview" button**.
 
 Use the preview to make sure that:
 
@@ -79,9 +83,9 @@ Use the preview to make sure that:
 
 Previewing does not launch the audit. If something looks wrong, go back, fix it, and preview again.
 
-**Launching the Audit**
+#### **Launching the Audit**
 
-When everything looks correct, select Launch Audit to begin the audit.
+When everything looks correct, select Launch Audit to begin the audit. See the Arlo screenshot below of the **"Launch Audit" button**.
 
 Once the audit is launched, nothing in Audit Setup can be changed. Review all settings, files, and the sample preview carefully before launching.
 

@@ -1,13 +1,13 @@
 # Audit Progress
 
-Once the audit is launched, the audit admin can monitor the audit progress from the Audit Progress screen.
+Once the audit is launched, the audit admin can monitor the audit progress from the **Audit Progress** screen.
 
-**Status:**\
-\
-**Not logged in -** jurisdiction has not logged in to Arlo and downloaded the ballot/batch retrieval list.\
-**Logged in** -  jurisdiction has  logged in to Arlo but has not downloaded the ballot/batch retrieval list.\
-**In progress -** jurisdiction has downloaded the ballot/batch retrieval list.\
-**Complete -** all ballots/batches have been audited.
+#### **Progress Statuses:**
+
+* **Not logged in:** The jurisdiction hasn’t logged in to Arlo or downloaded its ballot/batch retrieval list.
+* **Logged in:** The jurisdiction has logged in to Arlo but hasn’t downloaded its ballot/batch retrieval list.
+* **In progress:** The jurisdiction has downloaded its ballot/batch retrieval list.
+* **Complete:** All of the jurisdiction’s ballots/batches have been audited.
 
 There are slight display differences depending on the audit type.
 
@@ -31,7 +31,11 @@ The Count unique sampled ballots toggle displays the raw number of ballots to be
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-All but ballot polling audits will have a discrepancy column. This highlights discrepancies that the audit administrator may want to review prior to the completion of the audit. Discrepancies will only display after a jurisdiction manager or all audit boards have finalized their data entry unless it's a single jurisdiction audit. To review the discrepancies, select the flag for a quick look or select the Download Discrepancy Report button for a full report.&#x20;
+All but ballot polling audits will have a discrepancy column. This highlights discrepancies that the audit administrator may want to review prior to the completion of the audit. Discrepancies will only display after a jurisdiction manager or all audit boards have finalized their data entry unless it's a single jurisdiction audit.&#x20;
+
+{% hint style="info" %}
+To review the discrepancies, **select the flag** for a quick look or **select the Download Discrepancy Report** button for a full report.&#x20;
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/image (106).png" alt=""><figcaption></figcaption></figure>
 

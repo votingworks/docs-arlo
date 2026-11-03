@@ -3,7 +3,7 @@
 The target contests are the required contests to be audited.  Target contests will drive the ballot retrieval sample size and require the risk limit to be met.
 
 {% tabs %}
-{% tab title="Ballot Polling/Batch Comparison/Hybrid" %}
+{% tab title="Ballot Polling/Batch Comparison/Hybrid" icon="bullseye-arrow" %}
 For each targeted contest, you’ll enter the contest name, number of winners, number of votes allowed, the name and votes for each candidate, and total number of ballots cast (not required for batch comparison). \
 \
 Write-in candidates should also be included if any were awarded votes. Generally only a single "Write-In Candidate" category is needed.\
@@ -27,23 +27,25 @@ If a contest has more than two choices, select Add a new candidate/choice to add
 {% endhint %}
 
 {% hint style="warning" %}
-&#x20;**Contests Subject to Runoff Laws:** For these contests, check the Runoff Law box when entering the contest. Only check this box when auditing a contest that has advanced to a runoff.
+**Contests Subject to Runoff Laws:** For these contests, check the Runoff Law box when entering the contest. Only check this box when auditing a contest that has advanced to a runoff.
 
 <img src="../../.gitbook/assets/Screenshot 2026-10-30 at 2.56.30 PM.png" alt="" data-size="original">
 {% endhint %}
 
-The last step in setting up a targeted contest is to select which jurisdictions have that contest on the ballot.&#x20;
+The last step in setting up a target contest is choosing which jurisdictions have that contest on the ballot.
 
-1. Select Select Jurisdictions
-2. If the contest is in all jurisdictions, use the Select all checkbox. Otherwise, select jurisdictions individually.
-3. Select Save & Next
+1. **Select the Select Jurisdictions button.**
+2. **Choose the jurisdictions.** If the contest is in every jurisdiction, check the Select all box. Otherwise, check each jurisdiction that has the contest.
+3. **Select Save & Next.**
+
+{% hint style="warning" %}
+If you’re auditing more than one contest, **select Add Contest** for additional targeted contest before you **select Save & Next.**<br>
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (93).png" alt=""><figcaption></figcaption></figure>
-
-If more than one contest is targeted for audit, use the Add another targeted contest button to add additional targeted contests before selecting Save & Next.<br>
 {% endtab %}
 
-{% tab title="Ballot Comparison" %}
+{% tab title="Ballot Comparison" icon="bullseye-arrow" %}
 Arlo populates the contests based on the standardized contest file. Simply select the contest(s) being targeted from the list.
 
 ![](<../../.gitbook/assets/image (40).png>)

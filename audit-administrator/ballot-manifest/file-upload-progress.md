@@ -8,20 +8,20 @@ Below the map on the Audit Progress screen is a list of all jurisdictions and th
 
 <figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
-**Status:**\
-\
-**Not logged in -** jurisdiction has not logged in to Arlo and uploaded either file.\
-**Logged in -** jurisdiction has logged in to Arlo but not uploaded either file.\
-**1/2 files uploaded -** jurisdiction has only uploaded the ballot manifest.
+#### **File Upload Statuses:**
+
+* **Not logged in -** jurisdiction has not logged in to Arlo and uploaded either file.
+* **Logged in -** jurisdiction has logged in to Arlo but not uploaded either file.
+* **1/2 files uploaded -** jurisdiction has only uploaded the ballot manifest.
 
 {% hint style="warning" %}
 **Note:** for ballot polling, only the ballot manifest upload is required.
 {% endhint %}
 
-**2/2 files uploaded -** jurisdiction has successfully uploaded their audit files.\
-**Upload failed -** jurisdiction has attempted to upload one or more of the files but an error was found.
+* **2/2 files uploaded -** jurisdiction has successfully uploaded their audit files.
+* **Upload failed -** jurisdiction has attempted to upload one or more of the files but an error was found.
 
-To review the files, select the Jurisdiction Name.  Then select Download under the file name to review.
+To review the files, select the **Jurisdiction Name**.  Then select **Download** under the file name to review.
 
 <figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -31,6 +31,6 @@ Ballots in Manifest is the total number of ballots the jurisdiction has in their
 
 Information on the progress screen can be sorted in many different ways, as well as downloaded into a .csv file.  Sort order will be maintained when the screen is refreshed.
 
-Use Download Reported Results to download the reported results summed by jurisdiction. This is useful when comparing uploaded results with another data source.&#x20;
+Use **Download Reported Results** to download the reported results summed by jurisdiction. This is useful when comparing uploaded results with another data source.&#x20;
 
 <figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>

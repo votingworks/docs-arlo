@@ -11,13 +11,20 @@ Logging into Arlo will be required to upload audit files, download audit materia
 
 To log in to Arlo:
 
-1. Using Chrome or Safari as your browser, go to [https://arlo.voting.works/](https://arlo.voting.works/).
-2. Enter your email address.
-3. Click Log in to your audit.&#x20;
+1. **Go to** [**https://arlo.voting.works/**](https://arlo.voting.works/) using Chrome or Safari.
+2. **Enter your email address.**
+3. **Select Log in to your audit.**
 
 ![](<../.gitbook/assets/image (70).png>)
 
-4\.  Check your email for a new email with a subject “Welcome to Arlo - Use the Code in this Email to Log In” - enter the verification code. _**This email comes from**_ [_**rla@vx.support,**_ ](mailto:rla@vx.support)_**be sure to add this email address to your contacts, safe sender, or whitelist.**_
+4\.  Check your email for a new email with a subject “Welcome to Arlo - Use the Code in this Email to Log In” - **enter the verification code**. This email comes from [rla@vx.support](mailto:rla@vx.support).
+
+{% hint style="warning" %}
+If you are not receiving the verification code:
+
+* **Check all of your email folders,** including spam and junk.
+* **Add rla@vx.support** to your contacts or safe senders list, or ask your IT office for assistance as protections may be blocking the message from being sent to you.
+{% endhint %}
 
 ![](https://lh4.googleusercontent.com/D5neWVCWcYJad45Q32lBybm_IIJmXMDmRr3e6y-NXK-2nj70pPRdUEErjqSGgDpKxrkHxDmIfz6RzNZFNl4Sy3mUSs5CUpf9jrw_WuURF3QdHCnsUrSvK7N8m8ifYkOTMx4tsrDF)
 

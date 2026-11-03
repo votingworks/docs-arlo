@@ -1,12 +1,23 @@
 # Audit Settings
 
-In the final audit settings, your state should already be set as a default but if not, select it from the drop down. The State populates the map in the Audit Progress Screen.  Next enter the Election Name, designate the desired risk limit, and enter the random seed.&#x20;
+In the final audit settings:
 
+1. **Check the State.** Your state should already be selected. If it isn’t, choose it from the drop-down. The state you pick sets the map shown on the Audit Progress screen.
+2. **Enter the Election Name.**
+3. **Choose the risk limit.**
+4. **Enter the random seed.**
+
+{% hint style="warning" icon="triangle-exclamation" %}
 The risk limit may be designated in state statute or rule. Be sure to verify your state's requirements.
+{% endhint %}
 
 <figure><img src="../../.gitbook/assets/image (115).png" alt=""><figcaption></figcaption></figure>
 
-Presentation mode may be used when entering the random seed to a public audience. Select Presentation Mode and a larger box only meant for random seed entry will open.  Select Set Random Seed to save it after it's entered.
+If you’re entering the random seed in front of a public audience, you can use **Presentation Mode**:
+
+1. **Select Presentation Mode.** A larger box opens for entering the random seed.
+2. **Enter the random seed.**
+3. **Select Set Random Seed** to save it.
 
 <figure><img src="../../.gitbook/assets/image (116).png" alt="" width="375"><figcaption></figcaption></figure>
 

@@ -9,8 +9,8 @@ The ballot manifest is used by Arlo to build a list of every ballot in the elect
 Creating a ballot manifest is slightly different [depending on the type of RLA](../../audit-types.md) you are conducting. Use the tabs below to navigate to the correct instructions for your audit type.
 
 {% tabs %}
-{% tab title="Ballot Polling/Batch Comparison" %}
-#### **Creating a Standard Ballot Polling/Batch Comparison Ballot Manifest**
+{% tab title="Ballot Polling" icon="memo-pad" %}
+#### **Creating a Ballot Polling Ballot Manifest**
 
 1. **Open a spreadsheet program** and create a new spreadsheet.
 2. **Add two columns:**
@@ -31,6 +31,48 @@ For example, say you scanned ballots in sets of 200 and kept each set together i
 ![](<../../.gitbook/assets/image (9) (1).png>)
 
 ![](<../../.gitbook/assets/image (8) (1).png>)
+{% endtab %}
+
+{% tab title="Ballot Comparison" icon="memo-pad" %}
+#### **Creating a Ballot Comparison Manifest**
+
+1. **Open a spreadsheet program** and create a new spreadsheet.
+2. **Add four columns:**
+   * **Container (Column A):** the name of each container.
+   * **Tabulator (Column B):** the name of the tabulator.
+   * **Batch Name (Column C):** the tabulator batch name.
+   * **Number of Ballots (Column D):** the number of ballots in each batch.
+3. **Enter the data** for your county or jurisdiction, with one row for each batch.
+4. **Check your numbers.** Make sure the total number of ballots matches your number of ballots cast.
+5. **Save the file as a .csv.**
+
+![](<../../.gitbook/assets/image (74) (1).png>)
+
+**Ballots Further Separated in the Container​**
+
+If ballots in a container are split into smaller batches that are clearly labeled, include those batches in the ballot manifest. Only do this when each batch has a clear label.
+
+For example, say you scanned ballots in sets of 200 and kept each set together in a folder or with a rubber band. If each set is labeled with its batch and container, list it in the Batch Name column with a comma separating the two, such as “Container Y, Batch X.”
+
+![](<../../.gitbook/assets/image (9) (1).png>)
+
+![](<../../.gitbook/assets/image (8) (1).png>)
+{% endtab %}
+
+{% tab title="Batch Comparison" icon="memo-pad" %}
+
+
+#### **Creating a Standard Batch Comparison Ballot Manifest**
+
+1. **Open a spreadsheet program** and create a new spreadsheet.
+2. **Add two columns:**
+   * **Batch Name:** the name of each container or batch.
+   * **Number of Ballots:** the number of ballots in each container.
+3. **Enter the data** for your county or jurisdiction, with one row for each container or batch.
+4. **Check your numbers.** Make sure the total number of ballots matches your number of ballots cast.
+5. **Save the file as a .csv.**
+
+![](https://lh3.googleusercontent.com/X3J_2kW5iuxOJ560YljIUhw40KPhto4m8JH6ceq7SFGbnqJFZCzj_F2D5xA2oVWEduWIlnPQ1gsgXvhR9XIrGOegZOkNYsFZvkPDhROm7TlHIH84Ralrn18uf3w0jSDffkVm1UNf)
 
 #### **Creating a Batch Comparison Ballot Manifest Using Card Style Data**
 
@@ -49,23 +91,21 @@ Card style data shows which contests appear on each ballot card. Adding it to th
 6. **Save the file as a .csv** and upload it as your ballot manifest.
 
 <figure><img src="../../.gitbook/assets/example_ballot_manifest_batch_comparison_CSD_generic.png" alt=""><figcaption></figcaption></figure>
+
+**Ballots Further Separated in the Container​**
+
+If ballots in a container are split into smaller batches that are clearly labeled, include those batches in the ballot manifest. Only do this when each batch has a clear label.
+
+For example, say you scanned ballots in sets of 200 and kept each set together in a folder or with a rubber band. If each set is labeled with its batch and container, list it in the Batch Name column with a comma separating the two, such as “Container Y, Batch X.”
+
+![](<../../.gitbook/assets/image (9) (1).png>)
+
+![](<../../.gitbook/assets/image (8) (1).png>)
 {% endtab %}
 
-{% tab title="Ballot Comparison" %}
-1. **Open a spreadsheet program** and create a new spreadsheet.
-2. **Add four columns:**
-   * **Container (Column A):** the name of each container.
-   * **Tabulator (Column B):** the name of the tabulator.
-   * **Batch Name (Column C):** the tabulator batch name.
-   * **Number of Ballots (Column D):** the number of ballots in each batch.
-3. **Enter the data** for your county or jurisdiction, with one row for each batch.
-4. **Check your numbers.** Make sure the total number of ballots matches your number of ballots cast.
-5. **Save the file as a .csv.**
+{% tab title="Hybrid" icon="memo-pad" %}
+#### **Creating a Hybrid Audit Ballot Manifest**
 
-![](<../../.gitbook/assets/image (74) (1).png>)
-{% endtab %}
-
-{% tab title="Hybrid" %}
 1. **Open a spreadsheet program** and create a new spreadsheet.
 2. **Add five columns:**
    * **Container (Column A):** the name of each container.
@@ -78,6 +118,16 @@ Card style data shows which contests appear on each ballot card. Adding it to th
 5. **Save the file as a .csv.**
 
 ![](<../../.gitbook/assets/image (76) (1).png>)
+
+**Ballots Further Separated in the Container​**
+
+If ballots in a container are split into smaller batches that are clearly labeled, include those batches in the ballot manifest. Only do this when each batch has a clear label.
+
+For example, say you scanned ballots in sets of 200 and kept each set together in a folder or with a rubber band. If each set is labeled with its batch and container, list it in the Batch Name column with a comma separating the two, such as “Container Y, Batch X.”
+
+![](<../../.gitbook/assets/image (9) (1).png>)
+
+![](<../../.gitbook/assets/image (8) (1).png>)
 {% endtab %}
 {% endtabs %}
 
@@ -85,6 +135,8 @@ Card style data shows which contests appear on each ballot card. Adding it to th
 
 The number of ballots stored in each container varies by state and jurisdiction. What’s important when creating the ballot manifest is to make sure the number being used is independent of the tabulator. The number of ballots tabulated is generally the right number but that number should have been independently verified on election night or after the election via a reconciliation process that includes comparing it to the number of voters.​​
 
+{% hint style="warning" %}
 All voted ballots should be included. Don’t forget provisional, UOCAVA, absentee, or other ballots counted after election day as required by law. <br>
+{% endhint %}
 
 {% embed url="https://www.youtube.com/watch?index=2&list=PLvehCClJUfizPqqTmYk2oZNX1jGEkdzi7&v=v_kWNgkiSjc" %}

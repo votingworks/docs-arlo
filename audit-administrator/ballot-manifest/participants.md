@@ -1,14 +1,26 @@
 # Participants
 
-In order to begin the audit, Arlo needs to know the participants. A participant (or [Jurisdiction Manager](../../user-roles.md)) is usually a county or local jurisdiction responsible for creating their own pre-audit files and coordinating the retrieval of ballots. Prepare a participant list by creating a two column spreadsheet. The first column titled “Jurisdiction” and the second column titled “Admin Email.”  The email address should be the email the user wants to use to retrieve login information. Save the spreadsheet as a .csv file.&#x20;
+In order to begin the audit, Arlo needs to know the participants. A participant (or [Jurisdiction Manager](../../user-roles.md)) is usually a county or local jurisdiction responsible for creating their own pre-audit files and coordinating the retrieval of ballots.&#x20;
 
-An optional third column, titled Expected Number of Ballots can be added to the participant list. This number will help audit administrators compare the total number of ballots in the jurisdiction manager's ballot manifest with some other source of truth (ex. election night reporting, epollbook check-ins, voter history, etc.) quickly.
+#### To create the Arlo Participant File:
 
-When the spreadsheet is ready, complete the steps in the Participants section of Arlo, as follows:
+1. **Open a spreadsheet program** and create a new spreadsheet.
+2. **Add two columns:**
+   * **Jurisdiction (Column A):** the name of each participating jurisdiction.
+   * **Admin Email (Column B):** the email address the Jurisdiction Manager wants to use to get their login information.
 
-1. Select Browse and locate the participants .csv file created.
-2. Select Upload File.
-3. Select Next.
+{% hint style="info" %}
+**Expected Number of Ballots (Column C, optional):** the number of ballots you expect from each jurisdiction. This lets audit administrators quickly compare each jurisdiction’s ballot manifest with another source, such as election night reporting, e-pollbook check-ins, or voter history.
+{% endhint %}
+
+1. **Enter the data,** with one row for each jurisdiction.
+2. **Save the file as a .csv.**
+
+When the file is ready, upload it in the Participants section of Arlo:
+
+1. **Select Browse** and choose the participants .csv file you created.
+2. **Select Upload File.**
+3. **Select Next.**
 
 <figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure>
 
